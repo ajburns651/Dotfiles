@@ -1,0 +1,75 @@
+Xft.dpi: 96
+
+URxvt.iso14755 : false
+
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.antialias: true
+Xft.rgba: rgb
+URxvt.font:  xft:UbuntuMono Nerd Font:stylebold:pixelsize=24x:antialias=true, xft:NotoColorEmoji
+
+*.foreground:   #C0C0C0
+*.background:   #101010
+! black/dark-gray
+*.color0:       #101010
+*.color8:       #454545
+! red/orange
+*.color1:       #EFA6A2
+*.color9:       #E0AF85
+! green/aquamarine
+*.color2:       #80C990
+*.color10:      #5ACCAF
+! amber/yellow
+*.color3:       #A69460
+*.color11:      #C8C874
+! blue/violet
+*.color4:       #A3B8EF
+*.color12:      #CCACED
+! magenta/rose
+*.color5:       #E6A3DC
+*.color13:      #F2A1C2
+! cyan/azure
+*.color6:       #50CACD
+*.color14:      #74C3E4
+! gray/white
+*.color7:       #808080
+*.color15:      #C0C0C0
+
+URxvt.scrollBar:           false
+
+!
+ URxvt.perl-ext-common:     matcher,resize-font,foo,default
+
+!
+ URxvt.keysym.F11:          perl:fullscreen:switch
+!
+ URxvt.Resize-font.smaller: esc
+ URxvt.Resize-font.bigger:  S-Up
+!
+ 
+ URxvt.url-launcher:        /usr/bin/librewolf
+ URxvt.keysym.M-Delete:     perl:matcher:list
+ URxvt.colorUL:             #006699
+
+
+URxvt.cursorBlink : 1 
+
+URxvt.cursorUnderline : 1 
+
+URxvt.cursorColor : white 
+
+URxvt*saveLines: 60000
+
+URxvt.background: #131313
+
+Xcursor.size: 48
+
+URxvt.foreground :white
+urxvt*blurRadius: 10
+
+URxvt.depth: 32
+
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt.keysym.Control-Meta-c: builtin-string:
+URxvt.keysym.Control-Meta-v: builtin-string:

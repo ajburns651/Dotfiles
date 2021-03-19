@@ -1,0 +1,7 @@
+
+xmonad.hs:242:1: warning: [-Wtabs]
+    Tab character found here, and in one further location.
+    Please use spaces instead.
+    |
+242 |         , ("M-M1-h", withFocused hideWindow)
+    | ^^^^^^^^

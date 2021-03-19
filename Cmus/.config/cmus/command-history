@@ -1,0 +1,33 @@
+set status_display_program=
+set start_view=tree
+set show_current_bitrate=false
+set show_current_bitrate=true
+prev-view
+bind -f common u shell ~/.config/cmus/update.sh
+fset flac=filename="*.flac"
+fset mp3=filename="*.mp3"
+fset flac
+fset ogg=filename="*.ogg"
+add Music/
+bind -f common right win-next
+bind -f common left win-next
+bind -f common ] seek +5s
+bind -f common [ seek -5s
+bind -f common [ seek +5s
+bind -f common . vol +1%
+bind -f common , vol -1%
+help
+add -h
+add Hits
+pl-create Hits
+bind common A add
+bind common ^a add
+bind common a add
+bind -f common p player-pause
+bind -f common l player-next
+bind -f common h player-prev 
+bind -f common l player-skip
+colorscheme night
+add ~/Music
+q
+add ~/Music/
