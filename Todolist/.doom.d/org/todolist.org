@@ -1,6 +1,6 @@
 #+TITLE: TODO LIST
-#+DESCRIPTION: Current To do list
-#+AUTHOR: Alex Burns
+#+DESCRIPTION: Current To do List
+#+AUTHOR: Kebicle
 
 # SPC-m-t-t todo
 # Spc-m-t-d done
@@ -29,6 +29,6 @@
 ***
 ** Saturday
 *** TODO Check LA Website for Vax/Temecula?
-*** TODO Hangout With Nathan to study phyics. Time?
+*** TODO Hangout With Nathan to study phyics. What Time?
 ** Sunday
 ***

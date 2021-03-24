@@ -6,7 +6,7 @@ Xft.hinting: true
 Xft.hintstyle: hintslight
 Xft.antialias: true
 Xft.rgba: rgb
-URxvt.font:  xft:UbuntuMono Nerd Font:stylebold:pixelsize=24x:antialias=true, xft:NotoColorEmoji
+URxvt.font:  xft:UbuntuMono Nerd Font:style=regular:pixelsize=24x:antialias=true, xft:NotoColorEmoji
 
 *.foreground:   #C0C0C0
 *.background:   #101010
