@@ -317,6 +317,10 @@ myKeys home =
         , ("M-C-.", onGroup W.focusUp')    -- Switch focus to next tab
         , ("M-C-,", onGroup W.focusDown')  -- Switch focus to prev tab
 
+    -- Controls for x11vnc (SUPER-v followed by a key)
+        , ("M-v w", spawn "~/Dotfiles/Scripts/vnc.sh")
+        , ("M-v q", spawn "kill -9 x11vnc")
+
     -- Controls for cmus music player (SUPER-u followed by a key)
         , ("M-u s", spawn "cmus-remote -s")
         , ("M-u l", spawn "cmus-remote -n")

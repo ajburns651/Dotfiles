@@ -1,16 +1,13 @@
 #+TITLE: TODO LIST
-#+DESCRIPTION: Current To do List
-#+AUTHOR: Kebicle
-
 # SPC-m-t-t todo
 # Spc-m-t-d done
 # Spc-m-t-s in progress
-
 ======= 2/21 - 2/ 27 =======
 
 * All
 ** TODO Study Physics for Midterm
 ** TODO Create own tutoring service and website? how would that work over summer?
+** TODO vncx11 Server with ipad for to-do list?
 ** DONE Emacs - Org Mode
 
 * School
