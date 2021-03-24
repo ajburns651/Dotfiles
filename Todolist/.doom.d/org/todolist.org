@@ -1,0 +1,34 @@
+#+TITLE: TODO LIST
+#+DESCRIPTION: Current To do list
+#+AUTHOR: Alex Burns
+
+# SPC-m-t-t todo
+# Spc-m-t-d done
+# Spc-m-t-s in progress
+
+======= 2/21 - 2/ 27 =======
+
+* All
+** TODO Study Physics for Midterm
+** TODO Create own tutoring service and website? how would that work over summer?
+** DONE Emacs - Org Mode
+
+* School
+** Monday
+***
+** Tuesday
+*** DONE Film three scenes for Video-Film
+** Wedensday
+*** DONE Math due @ 2:40
+*** TODO Physics Lab
+*** TODO Amanda meeting @ 2pm - Mention idea of aeronautics/Diversify with tutoring?
+*** TODO Act Book Review
+** Thursday
+*** TODO Matt Act Prep @ 4pm
+** Friday
+***
+** Saturday
+*** TODO Check LA Website for Vax/Temecula?
+*** TODO Hangout With Nathan to study phyics. Time?
+** Sunday
+***

@@ -253,6 +253,8 @@ myKeys home =
         , ("M-M1-p", spawn ("picom --experimental-backend; killall picom"))
         , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))
+        , ("M-e", spawn ("emacs")) 
+        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/todolist.org")) 
 
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client

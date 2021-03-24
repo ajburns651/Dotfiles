@@ -58,6 +58,9 @@ function file-exists --argument file
 end
 
 ### ALIASES ###
+alias doom='~/.emacs.d/bin/doom'
+alias todo='~/Dotfiles/Scripts/todo.sh'
+alias ks='ls'
 alias wumount="sudo umount /dev/nvme0n1p3"
 alias wmount="sudo mount /dev/nvme0n1p3 /mnt/Windows" 
 alias cupdate="/home/keb/Dotfiles/Scripts/recentlyinstalled.sh"

@@ -1,3 +1,150 @@
+/home/keb/Music/Beatles/A Hard Day's Night (Remastered 2009)-zx2TFk0vh1I.mp3
+/home/keb/Music/Beatles/AC_DC - Back In Black (Official Video)-pAgnJDJN4VA.mp3
+/home/keb/Music/Beatles/Aerosmith - Dream On (Official Audio)-89dGC8de0CA.mp3
+/home/keb/Music/Beatles/Ain't No Mountain High Enough-ysxy4oPKT3Y.mp3
+/home/keb/Music/Beatles/All My Loving (Remastered 2009)-TSpiwK5fig0.mp3
+/home/keb/Music/Beatles/All You Need Is Love (Remastered 2009)-_7xMfIp-irg.mp3
+/home/keb/Music/Beatles/Alphaville - Forever Young ~Official Video-t1TcDHrkQYg.mp3
+/home/keb/Music/Beatles/American Pie-iX_TFkut1PM.mp3
+/home/keb/Music/Beatles/And I Love Her (Remastered 2009)-5tc0gLSSU1M.mp3
+/home/keb/Music/Beatles/Angus and Julia Stone - Big Jet Plane [Official Music Video]-yFTvbcNhEgc.mp3
+/home/keb/Music/Beatles/BEATLES - BABY'S IN BLACK (Live)-UJ24YXXKGLc.mp3
+/home/keb/Music/Beatles/Baby It's You (Live At The BBC For 'Pop Go The Beatles' _ 11th June, 1963)-ALCgfVoLHm0.mp3
+/home/keb/Music/Beatles/Bad Suns - Even In My Dreams I Can't Win [Audio]-tFSvLf0hU00.mp3
+/home/keb/Music/Beatles/Billy Joel - Piano Man (Official Music Video)-gxEPV4kolz0.mp3
+/home/keb/Music/Beatles/Billy Joel - Scenes from an Italian Restaurant (Official Audio)-Hxx8IWIvKg0.mp3
+/home/keb/Music/Beatles/Billy Joel - The Longest Time (Official Video)-a_XgQhMPeEQ.mp3
+/home/keb/Music/Beatles/Billy Joel - Vienna (Audio)-wccRif2DaGs.mp3
+/home/keb/Music/Beatles/Billy Joel - We Didn't Start the Fire (Official Video)-eFTLKWw542g.mp3
+/home/keb/Music/Beatles/Blackbird (Remastered 2009)-Man4Xw8Xypo.mp3
+/home/keb/Music/Beatles/Blue Oyster Cult - (Don't Fear) The Reaper (Audio)-Dy4HA3vUv2c.mp3
+/home/keb/Music/Beatles/Blue Swede - Hooked On A Feeling  (1974 - HQ - Live)-w5jkAkm4JmM.mp3
+/home/keb/Music/Beatles/Bon Jovi - Livin' On A Prayer (Official Music Video)-lDK9QqIzhwk.mp3
+/home/keb/Music/Beatles/Bruce Springsteen - Born in the U.S.A. (Official Video)-EPhWR4d3FJQ.mp3
+/home/keb/Music/Beatles/Carla Thomas - B-A-B-Y (Official Audio)-FZu6FMAksrs.mp3
+/home/keb/Music/Beatles/Come Together (Remastered 2009)-oolpPmuK2I8.mp3
+/home/keb/Music/Beatles/Cream - Sunshine Of Your Love (HD)-zt51rITH3EA.mp3
+/home/keb/Music/Beatles/Crimson and Clover - Tommy James & The Shondells-GpGEeneO-t0.mp3
+/home/keb/Music/Beatles/Crystal Blue Persuasion - Tommy James & The Shondells (With Lyrics)-Dn5Pbug5nRw.mp3
+/home/keb/Music/Beatles/Dancing In the Moonlight-hMc8naeeSS8.mp3
+/home/keb/Music/Beatles/Dear Prudence (Remastered 2009)-wQA59IkCF5I.mp3
+/home/keb/Music/Beatles/Doobie Brothers - Listen To The Music • TopPop-DkytJLoxGmQ.mp3
+/home/keb/Music/Beatles/Earth, Wind & Fire - September (Official Video)-Gs069dndIYk.mp3
+/home/keb/Music/Beatles/Electric Light Orchestra - Mr. Blue Sky (Official Audio)-s7dTBoW5H9k.mp3
+/home/keb/Music/Beatles/Electric Light Orchestra - Sweet Talkin' Woman (Audio)-NNjrBUzXDJk.mp3
+/home/keb/Music/Beatles/Elton John - Rocket Man (Official Music Video)-DtVBCG6ThDk.mp3
+/home/keb/Music/Beatles/Elvis Presley - Jailhouse Rock (Music Video)-gj0Rz-uP4Mk.mp3
+/home/keb/Music/Beatles/Escape (The Pina Colada Song)-Xb6l38eP-4w.mp3
+/home/keb/Music/Beatles/Fat Bottomed Girls (Live in Paris)-IF1lLITMCko.mp3
+/home/keb/Music/Beatles/Fitz and the Tantrums - Out of My League (Audio)-I-QmZpLWjHc.mp3
+/home/keb/Music/Beatles/Fleetwood Mac - Landslide (Official Music Video)-WM7-PYtXtJM.mp3
+/home/keb/Music/Beatles/Fleetwood Mac - Rhiannon [with lyrics]-U_aYibUx1B8.mp3
+/home/keb/Music/Beatles/Fleetwood Mac - The Chain (2004 Remastered Edition)-1zKAcrdpQJY.mp3
+/home/keb/Music/Beatles/Fool in the Rain (1990 Remaster)-Zp-LBD_q0sQ.mp3
+/home/keb/Music/Beatles/Free Bird-CqnU_sJ8V-E.mp3
+/home/keb/Music/Beatles/Gary Clark Jr. & Junkie XL - Come Together (Justice League Soundtrack)-UX7bxe2whlw.mp3
+/home/keb/Music/Beatles/George Harrison - My Sweet Lord (Official Audio)-SP9wms6oEMo.mp3
+/home/keb/Music/Beatles/Going Out Of My Head-F3YdfCm5Yzo.mp3
+/home/keb/Music/Beatles/Going to California (Remaster)-PDIz4talyQk.mp3
+/home/keb/Music/Beatles/Good Vibrations (Stereo)-8de_EbOd22M.mp3
+/home/keb/Music/Beatles/Goodbye Yellow Brick Road (Remastered 2014)-u2lfizz6OJs.mp3
+/home/keb/Music/Beatles/Grant Gustin - Running Home to You (Lyrics)-ptkw2rPhAuM.mp3
+/home/keb/Music/Beatles/Grant Gustin and Melissa Benoist - Super Friend (Lyrics)-8j6_YW52Nz0.mp3
+/home/keb/Music/Beatles/Guns N' Roses - Sweet Child O' Mine (Official Music Video)-1w7OgIMMRc4.mp3
+/home/keb/Music/Beatles/Happiness Is A Warm Gun (Remastered 2009)-vdvnOH060Qg.mp3
+/home/keb/Music/Beatles/Help! (Remastered 2009)-MKUex3fci5c.mp3
+/home/keb/Music/Beatles/Here, There And Everywhere (Remastered 2009)-xdcSFVXd3MU.mp3
+/home/keb/Music/Beatles/Hey Jude (Remastered 2015)-mQER0A0ej0M.mp3
+/home/keb/Music/Beatles/Hotel California (2013 Remaster)-811QZGDysx0.mp3
+/home/keb/Music/Beatles/Houndmouth - Darlin'-IkC1eJIyoD0.mp3
+/home/keb/Music/Beatles/Houndmouth - Sedona-Y8wifV5RYr8.mp3
+/home/keb/Music/Beatles/I Love Rock 'n' Roll-91TtnoYnTZM.mp3
+/home/keb/Music/Beatles/I Saw Her Standing There (Remastered 2009)-oxwAB3SECtc.mp3
+/home/keb/Music/Beatles/I Want To Hold Your Hand (Remastered 2015)-v1HDt1tknTc.mp3
+/home/keb/Music/Beatles/I Will (Remastered 2009)-p-abNGP1BK4.mp3
+/home/keb/Music/Beatles/I'm Happy Just To Dance With You (Remastered 2009)-B7X1oUfa8uE.mp3
+/home/keb/Music/Beatles/I'm Yours - Jason Mraz (Lyrics) 🎵-NpngifA8iRM.mp3
+/home/keb/Music/Beatles/I've Got A Feeling (Remastered 2009)-DbKPZd5oihc.mp3
+/home/keb/Music/Beatles/If I Fell (Remastered 2009)-F_80s6S_7Vw.mp3
+/home/keb/Music/Beatles/Imagine - John Lennon & The Plastic Ono Band (w The Flux Fiddlers) (Ultimate Mix 2018) - 4K REMASTER-VOgFZfRVaww.mp3
+/home/keb/Music/Beatles/It's Only Love (Remastered 2009)-OPiKDHYCkjs.mp3
+/home/keb/Music/Beatles/Jealous Guy (Remastered 2010)-3O4J4DH4tyo.mp3
+/home/keb/Music/Beatles/Johnny B. Goode-Uf4rxCB4lys.mp3
+/home/keb/Music/Beatles/Journey - Don’t Stop Believin’ (Escape Tour 1981 - Live In Houston)-VcjzHMhBtf0.mp3
+/home/keb/Music/Beatles/Journey - Wheel in the Sky (Official Video - 1978)-MxGEVIvSFeY.mp3
+/home/keb/Music/Beatles/Kashmir (1990 Remaster)-SsaFBNvhceA.mp3
+/home/keb/Music/Beatles/Knockin' On Heaven's Door-f8OHybVhQwc.mp3
+/home/keb/Music/Beatles/Led Zeppelin - Tangerine (Official Audio)-KaFjxLMsOuo.mp3
+/home/keb/Music/Beatles/Let It Be (Remastered 2009)-QDYfEBY9NM4.mp3
+/home/keb/Music/Beatles/Louis Armstrong - What A Wonderful World (Lyrics)-A3yCcXgbKrE.mp3
+/home/keb/Music/Beatles/Michelle (Remastered 2009)-WoBLi5eE-wY.mp3
+/home/keb/Music/Beatles/Money - Pink Floyd HD (Studio Version)-cpbbuaIA3Ds.mp3
+/home/keb/Music/Beatles/Mother Nature's Son (Remastered 2009)-TMMiXjwhODU.mp3
+/home/keb/Music/Beatles/Neil Diamond - Sweet Caroline High Quality neildiamond-1vhFnTjia_I.mp3
+/home/keb/Music/Beatles/New Kid in Town (2013 Remaster)--Pa5nqYXEnY.mp3
+/home/keb/Music/Beatles/Nowhere Man (Remastered 2009)-8scSwaKbE64.mp3
+/home/keb/Music/Beatles/Ob-La-Di, Ob-La-Da (Remastered 2009)-_J9NpHKrKMw.mp3
+/home/keb/Music/Beatles/Octopus's Garden (Remastered 2009)-De1LCQvbqV4.mp3
+/home/keb/Music/Beatles/Oh! Darling (Remastered 2009)-9BznFjbcBVs.mp3
+/home/keb/Music/Beatles/Paul McCartney - Maybe I’m Amazed (Official Video)-cdDPR8GzXy8.mp3
+/home/keb/Music/Beatles/Pearl Jam - Yellow Ledbetter-hs8y3kneqrs.mp3
+/home/keb/Music/Beatles/Penny Lane (Remastered 2009)-vfxQ1oDiEJM.mp3
+/home/keb/Music/Beatles/Perfect - Ed Sheeran (Lyrics)-UDDMYw_IZnE.mp3
+/home/keb/Music/Beatles/Peter Frampton - Baby, I Love Your Way - 7_2_1977 - Oakland Coliseum Stadium (Official)-OVN-2qoquyE.mp3
+/home/keb/Music/Beatles/Pink Floyd - Time (2011 Remastered)-JwYX52BP2Sk.mp3
+/home/keb/Music/Beatles/Prelude _ Angry Young Man (Live at Carnegie Hall, New York, NY - June 1977)-0ZqVT-KzksE.mp3
+/home/keb/Music/Beatles/Put a Little Love in Your Heart (Lyrics) Carlos Valdes, Darren Criss, Jeremy Jordan, John Barrowman-L5CQRi0k-Ig.mp3
+/home/keb/Music/Beatles/Queen - Bicycle Race (Official Video)-xt0V0_1MS0Q.mp3
+/home/keb/Music/Beatles/Queen - Killer Queen (Top Of The Pops, 1974)-2ZBtPf7FOoM.mp3
+/home/keb/Music/Beatles/Queen - Radio Ga Ga (Live Aid 1985)-o-0ygW-B_gI.mp3
+/home/keb/Music/Beatles/Queen - Somebody To Love (Official Video)-kijpcUv-b8M.mp3
+/home/keb/Music/Beatles/Queen - We Will Rock You (Official Video)--tJYN-eG1zk.mp3
+/home/keb/Music/Beatles/Queen – Bohemian Rhapsody (Official Video Remastered)-fJ9rUzIMcZQ.mp3
+/home/keb/Music/Beatles/Red Hot Chili Peppers - Dani California [Official Music Video]-Sb5aq5HcS1A.mp3
+/home/keb/Music/Beatles/Red Hot Chili Peppers - Snow (Hey Oh) (Official Music Video)-yuFI5KSPAt4.mp3
+/home/keb/Music/Beatles/Redbone - Come and Get Your Love (Single Edit - Audio)-bc0KhhjJP98.mp3
+/home/keb/Music/Beatles/Rick Springfield - Jessie's Girl (Official Video)-qYkbTyHXwbs.mp3
+/home/keb/Music/Beatles/Roll Over Beethoven (Remastered 2009)-Hz5jXwOXgKQ.mp3
+/home/keb/Music/Beatles/Scenes from an Italian Restaurant (Live at Carnegie Hall, New York, NY - June 1977)-43VqLuGCNfM.mp3
+/home/keb/Music/Beatles/Seal  -  Kiss From A Rose (Official Music Video 720p HD) + Lyrics-AMD2TwRvuoU.mp3
+/home/keb/Music/Beatles/Seals & Crofts - Fiddle In The Sky-_JRc4bsijQg.mp3
+/home/keb/Music/Beatles/Sh Boom (Life Could Be A Dream)-iFdE78nc144.mp3
+/home/keb/Music/Beatles/She's Got a Way (Live at Carnegie Hall, New York, NY - June 1977)-MU2nXXydEzc.mp3
+/home/keb/Music/Beatles/Stairway to Heaven (Remaster)-39BWh-wEl3Y.mp3
+/home/keb/Music/Beatles/Strawberry Fields Forever (Remastered 2009)-10LSq_J5ol4.mp3
+/home/keb/Music/Beatles/Sublime - Santeria-k3ZeUL4fRyk.mp3
+/home/keb/Music/Beatles/THE ZOMBIES - TIME OF THE SEASON - Odessey and Oracle (1968) HiDef  - - SOTW #55--Gf7ettG5Y8.mp3
+/home/keb/Music/Beatles/Take It Easy (2013 Remaster)-4v8KEbQA8kw.mp3
+/home/keb/Music/Beatles/The Beach Boys - Surfin' U.S.A. (Remastered)-8JEiJDGHsX0.mp3
+/home/keb/Music/Beatles/The Beatles - Back In The U.S.S.R. (2018 Mix _ Lyric Video)-nS5_EQgbuLc.mp3
+/home/keb/Music/Beatles/The Beatles - Here Comes The Sun (2019 Mix)-KQetemT1sWc.mp3
+/home/keb/Music/Beatles/The Beatles - Something-UelDrZ1aFeY.mp3
+/home/keb/Music/Beatles/The Cars - Let's Go [promo].avi-mOyLNI4SYV8.mp3
+/home/keb/Music/Beatles/The Chain (2002 Remaster)-P160_odTwyY.mp3
+/home/keb/Music/Beatles/The Clash - Should I Stay or Should I Go (Official Audio)-BN1WwnEDWAM.mp3
+/home/keb/Music/Beatles/The Cure - Just Like Heaven (Official Audio)-1ASpBpT8bRQ.mp3
+/home/keb/Music/Beatles/The Entertainer (Live at Carnegie Hall, New York, NY - June 1977)-A3IGJQHhi4Q.mp3
+/home/keb/Music/Beatles/The Fastest Man Alive (Always Late)-8coZREUBKjc.mp3
+/home/keb/Music/Beatles/The Jimi Hendrix Experience - Purple Haze (Audio)-WGoDaYjdfSg.mp3
+/home/keb/Music/Beatles/The Mamas & The Papas - California Dreamin'-N-aK6JnyFmk.mp3
+/home/keb/Music/Beatles/The Marshall Tucker Band - Can't You See (Official Audio)--48Za7VZR_c.mp3
+/home/keb/Music/Beatles/The Monkees - I'm a Believer (2006 remastered)-h3kJ1Hj9how.mp3
+/home/keb/Music/Beatles/The Police - Walking on the Moon (HQ) + lyrics-Y0Y2nDBaTas.mp3
+/home/keb/Music/Beatles/The Rain Song (Remaster)-TRt4hQs3nH0.mp3
+/home/keb/Music/Beatles/The Spencer Davis Group - Gimme Some Lovin'. Stereo-ko3m0NBbq1o.mp3
+/home/keb/Music/Beatles/This Boy (Remastered 2009)-VhuU8KDLdO4.mp3
+/home/keb/Music/Beatles/Till There Was You (Remastered 2009)-SHAqAO7w8M8.mp3
+/home/keb/Music/Beatles/Tom Petty - Free Fallin'-1lWJXDG2i0A.mp3
+/home/keb/Music/Beatles/Toto - Africa (Official Video)-FTQbiNvZqaY.mp3
+/home/keb/Music/Beatles/Twist And Shout (Remastered 2009)-2RicaUqd9Hg.mp3
+/home/keb/Music/Beatles/Under Pressure (Remastered 2011)-XuY8Ck7-7z8.mp3
+/home/keb/Music/Beatles/Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp3
+/home/keb/Music/Beatles/We Will Rock You (Movie Mix)-yjr2WZb5_TI.mp3
+/home/keb/Music/Beatles/Wouldn't It Be Nice (Stereo Mix)-6Vv_dkDwZeQ.mp3
+/home/keb/Music/Beatles/Yellow Days - Your Hand Holding Mine-tanIIOljUIY.mp3
+/home/keb/Music/Beatles/Yesterday (Remastered 2009)-NrgmdOz227I.mp3
+/home/keb/Music/Beatles/You Make Loving Fun (2004 Remaster)-WJVWVtHWmAM.mp3
+/home/keb/Music/Beatles/a-ha - Take On Me (Official 4K Music Video)-djV11Xbc914.mp3
 /home/keb/Music/Logic - Young Broke & Infamous/Logic - Ultra Violent.mp3
 /home/keb/Music/Logic - NP Leaks/Logic - Aquarious.mp3
 /home/keb/Music/Logic - NP Leaks/Logic - Firestarter.mp3
