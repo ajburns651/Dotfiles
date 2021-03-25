@@ -253,6 +253,8 @@ myKeys home =
         , ("M-M1-p", spawn ("picom --experimental-backend; killall picom"))
         , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))
+        , ("M-e", spawn ("emacs")) 
+        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/todolist.org")) 
 
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client
@@ -314,6 +316,10 @@ myKeys home =
         , ("M-C-/", withFocused (sendMessage . UnMergeAll))
         , ("M-C-.", onGroup W.focusUp')    -- Switch focus to next tab
         , ("M-C-,", onGroup W.focusDown')  -- Switch focus to prev tab
+
+    -- Controls for x11vnc (SUPER-v followed by a key)
+        , ("M-v w", spawn "~/Dotfiles/Scripts/vnc.sh")
+        , ("M-v q", spawn "kill -9 x11vnc")
 
     -- Controls for cmus music player (SUPER-u followed by a key)
         , ("M-u s", spawn "cmus-remote -s")

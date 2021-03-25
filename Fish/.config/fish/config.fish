@@ -39,7 +39,7 @@ end
 
 #su into fish
 function su
-   command su --shell=/usr/bin/fish $argv
+   command su -c "HOME=$HOME /usr/bin/fish"
 end
 
 #resotre backup file to orig name

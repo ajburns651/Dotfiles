@@ -3,7 +3,6 @@
 # Spc-m-t-d done
 # Spc-m-t-s in progress
 ======= 2/21 - 2/ 27 =======
-
 * Weekly
 ** TODO Study Physics for Midterm [3/9]
 *** [X] APB_MC01
@@ -16,23 +15,22 @@
 *** [ ] APB_MC08
 *** [ ] APB_MC09
 ** TODO Create own tutoring service and website? how would that work over summer?
-* Daily Routine [0/4]
-** [ ] 7:30-7:55 Eat Breakfast
-** [ ] 10:55-11:20 Workout
-** [ ] 1:15-1:35 Shower
+* Daily Routine [3/4]
+** [X] 7:30-7:55 Eat Breakfast
+** [X] 10:55-11:20 Workout
+** [X] 1:15-1:35 Shower
 ** [ ] 6:00-6:45 Walk Bailey
 * School
 ** Monday
-***
+*** TODO RA in English. Pull up Notes etc.
 ** Tuesday
-*** DONE Film three scenes for Video-Film
+*** TODO
 ** Wedensday
-*** DONE Math due @ 2:40
-*** DONE Physics Lab
-*** DONE Amanda meeting @ 2pm - Mention idea of aeronautics/Diversify with tutoring?
-*** STRT Act Book Review
+*** TODO
 ** Thursday
-*** TODO Matt Act Prep @ 4pm
+*** TODO 1:50-2:50 Phsyics 3 worksheets
+*** TODO 3:00-3:50 English Quizlet
+*** TODO 4:00-5:00 Matt Act Prep
 ** Friday
 ***
 ** Saturday
