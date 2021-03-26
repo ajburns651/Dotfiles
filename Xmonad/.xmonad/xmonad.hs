@@ -329,7 +329,7 @@ myKeys home =
 
     -- Controls for x11vnc (SUPER-v followed by a key)
         , ("M-v w", spawn "~/Dotfiles/Scripts/vnc.sh")
-        , ("M-v q", spawn "kill -9 x11vnc")
+        , ("M-v q", spawn "~/Dotfiles/Scripts/killvnc.sh")
 
     -- Controls for cmus music player (SUPER-u followed by a key)
         , ("M-u s", spawn "cmus-remote -s")
