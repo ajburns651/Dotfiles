@@ -1,0 +1,39 @@
+# To use this configuration file, you will need to:
+#
+# 1. Save your gmail password in a file which you will encrypt with GPG:
+# `gpg --recipient $GPGKEY --encrypt gpg -c mbsyncpass && rm mbsyncpass`
+#
+# 2. Change the "PassCmd" field to indicate the path to your previously
+# created encrypted file containing your Gmail password.
+#
+# 3. Change the "User" field to indicate your Gmail username.
+#
+# 4. Create the root folder to store your emails.
+# `mkdir -p ~/Maildir/gmail/{Drafts,Sent,Trash}`
+
+IMAPAccount gmail
+Host imap.gmail.com
+User ajburns651
+PassCmd "gpg2 -q --for-your-eyes-only --no-tty -d ~/.config/mu4e/mbsyncpass-gmail.gpg"
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+# REMOTE STORAGE (USE THE IMAP ACCOUNT SPECIFIED ABOVE)
+IMAPStore gmail-remote
+Account gmail
+
+# LOCAL STORAGE 
+MaildirStore gmail-local
+Subfolders Verbatim
+Path ~/Maildir/gmail/
+Inbox ~/Maildir/gmail/INBOX
+
+
+Channel gmail
+Master :gmail-remote:
+Slave :gmail-local:
+Patterns *
+Create Both
+Expunge Both
+SyncState *
+
