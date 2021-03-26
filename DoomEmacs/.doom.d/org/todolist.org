@@ -29,11 +29,11 @@
 **** Fperp=mgcos(0)
 **** deletap=mdeleta v / deltap=Ft
 ** TODO Create own tutoring service and website? how would that work over summer?
-* Daily Routine [4/4]
+* Daily Routine [1/4]
 ** [X] 7:30-7:55 Eat Breakfast
-** [X] 10:55-11:20 Workout
-** [X] 1:15-1:35 Shower
-** [X] 6:00-6:45 Walk Bailey
+** [ ] 10:55-11:20 Workout
+** [ ] 1:15-1:35 Shower
+** [ ] 6:00-6:45 Walk Bailey
 * School
 ** Monday
 *** TODO RA in English. Pull up Notes etc.
@@ -42,14 +42,12 @@
 ** Wedensday
 *** TODO
 ** Thursday
-*** DONE 1:50-2:50 Phsyics 3 worksheets
-*** DONE 3:00-3:50 English Quizlet
-*** DONE 4:00-5:00 Matt Act Prep
+*** TODO
 ** Friday
 *** TODO 3 More Physics Worksheets
 ** Saturday
 *** TODO Check LA Website for Vax/Temecula?
 *** TODO Hangout With Nathan to study phyics (MCQ + FRQ). What Time?
 ** Sunday
-*** Go over equations and their respective topics
-*** Review Ap Rhetorical Analysis rubric, examples, etc
+*** TODO Go over equations and their respective topics
+*** TODO Review Ap Rhetorical Analysis rubric, examples, etc
