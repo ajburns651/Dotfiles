@@ -258,13 +258,8 @@ myKeys home =
    -- Emacs (Mod-e followed by a key)
         , ("M-e e", spawn "emacsclient -c -a 'emacs'")                            -- start emacs
         , ("M-e b", spawn "emacsclient -c -a 'emacs' --eval '(ibuffer)'")         -- list emacs buffers
-        , ("M-e d", spawn "emacs .")       -- dired emacs file manager
-        , ("M-e i", spawn "emacsclient -c -a 'emacs' --eval '(erc)'")             -- erc emacs irc client
+        , ("M-e d", spawn "emacs .")                                              -- dired emacs file manager
         , ("M-e m", spawn "emacsclient -c -a 'emacs' --eval '(mu4e)'")            -- mu4e emacs email client
-        , ("M-e n", spawn "emacsclient -c -a 'emacs' --eval '(elfeed)'")          -- elfeed emacs rss client
-        , ("M-e s", spawn "emacsclient -c -a 'emacs' --eval '(eshell)'")          -- eshell within emacs
-        , ("M-e t", spawn "emacsclient -c -a 'emacs' --eval '(mastodon)'")        -- mastodon within emacs
-        , ("M-e v", spawn "emacsclient -c -a 'emacs' --eval '(+vterm/here nil)'") -- vterm within emacs
 
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client
@@ -329,7 +324,7 @@ myKeys home =
 
     -- Controls for x11vnc (SUPER-v followed by a key)
         , ("M-v w", spawn "~/Dotfiles/Scripts/vnc.sh")
-        , ("M-v q", spawn "~/Dotfiles/Scripts/killvnc.sh")
+        , ("M-v-k", spawn (myTerminal ++ " -e kill -9 x11vnc"))
 
     -- Controls for cmus music player (SUPER-u followed by a key)
         , ("M-u s", spawn "cmus-remote -s")

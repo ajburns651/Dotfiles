@@ -5,16 +5,17 @@
 ======= 2/21 - 2/ 27 =======
 * Weekly
 ** TODO Study Physics for Midterm
-*** MC Sheets [6/9]
+*** MC Sheets [10/10]
 **** [X] APB_MC01
 **** [X] APB_MC02
 **** [X] APB_MC03
 **** [X] APB_MC04
 **** [X] APB_MC05
 **** [X] APB_MC06
-**** [ ] APB_MC08
-**** [ ] APB_MC07
-**** [ ] APB_MC09
+**** [X] APB_MC08
+**** [X] APB_MC07
+**** [X] APB_MC09
+**** [X] APB_MC15
 *** Equations & Topics
 **** p=mv
 **** pe=mgh
@@ -28,12 +29,17 @@
 **** Fparallel=mgsin(0)
 **** Fperp=mgcos(0)
 **** deletap=mdeleta v / deltap=Ft
+*** Review Past Tests
+**** 1st
+**** 2nd
+*** Note Sheets for all topics
 ** TODO Create own tutoring service and website? how would that work over summer?
-* Daily Routine [1/4]
+** TODO Emacs music player meida
+* Daily Routine [4/4]
 ** [X] 7:30-7:55 Eat Breakfast
-** [ ] 10:55-11:20 Workout
-** [ ] 1:15-1:35 Shower
-** [ ] 6:00-6:45 Walk Bailey
+** [X] 10:55-11:20 Workout
+** [X] 1:15-1:35 Shower
+** [X] 6:00-6:45 Walk Bailey
 * School
 ** Monday
 *** TODO RA in English. Pull up Notes etc.
@@ -44,10 +50,11 @@
 ** Thursday
 *** TODO
 ** Friday
-*** TODO 3 More Physics Worksheets
+*** TODO
 ** Saturday
 *** TODO Check LA Website for Vax/Temecula?
 *** TODO Hangout With Nathan to study phyics (MCQ + FRQ). What Time?
+*** TODO Pivot: Ramp Rolling With various oobjects and 2 ap questions
 ** Sunday
 *** TODO Go over equations and their respective topics
 *** TODO Review Ap Rhetorical Analysis rubric, examples, etc
