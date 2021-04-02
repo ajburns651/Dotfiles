@@ -86,6 +86,7 @@
                               ("png" . "feh")
                               ("pdf" . "brave")
                               ("mkv" . "mpv")
+                              ("docx" . "brave")
                               ("mp4" . "mpv")))
 
 ;; Email Config

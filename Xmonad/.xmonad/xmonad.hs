@@ -249,7 +249,7 @@ myKeys home =
         , ("M-S-<Return>", spawn (myTerminal ++ " -e fish"))
         , ("M-b", spawn (myBrowser))
         , ("M-M1-s",spawn ("flameshot screen -n 0 -p ~/Pictures/Screenshots/")) 
-        , ("M-M1-f", spawn (myTerminal ++ " -e ranger"))
+        , ("M-M1-f", spawn "emacs .")
         , ("M-M1-p", spawn ("picom --experimental-backend; killall picom"))
         , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))

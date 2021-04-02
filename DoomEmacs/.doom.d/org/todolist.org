@@ -4,8 +4,8 @@
 # Spc-m-t-s in progress
 ======= 2/21 - 2/ 27 =======
 * Weekly
-** TODO Study Physics for Midterm
-*** MC Sheets [10/10]
+** DONE Study Physics for Midterm
+*** DONE MC Sheets [10/10]
 **** [X] APB_MC01
 **** [X] APB_MC02
 **** [X] APB_MC03
@@ -16,33 +16,35 @@
 **** [X] APB_MC07
 **** [X] APB_MC09
 **** [X] APB_MC15
-*** Equations & Topics
-**** p=mv
-**** pe=mgh
-**** ke=1/2mv^2
-**** W=Fx
-**** P=W/t
-**** Us=1/2kx^2
-**** Fs=-kx
-**** T=2pisqrt(m/k)
-**** T=2pisqrt(l/g)
-**** Fparallel=mgsin(0)
-**** Fperp=mgcos(0)
-**** deletap=mdeleta v / deltap=Ft
-*** Review Past Tests
-**** 1st
-**** 2nd
-*** Note Sheets for all topics
+*** DONE Equations & Topics [12/12]
+**** DONE p=mv
+**** DONE pe=mgh
+**** DONE ke=1/2mv^2
+**** DONE W=Fdcos
+**** DONE P=W/t
+**** DONE Us=1/2kx^2
+**** DONE Fs=-kx
+**** DONE T=2pisqrt(m/k)
+**** DONE T=2pisqrt(l/g)
+**** DONE Fparallel=mgsin(0)
+**** DONE Fperp=mgcos(0)
+**** DONE deletap=mdeleta v / deltap=Ft
+*** DONE Review Past Tests [4/4]
+**** DONE 1st MCQ
+**** DONE 1st FRQ
+**** DONE 2nd MCQ
+**** DONE 2nd FRQ
+*** DONE Note Sheets for all topics
 ** TODO Create own tutoring service and website? how would that work over summer?
-** TODO Emacs music player meida
-* Daily Routine [4/4]
+* Daily Routine [1/5]
 ** [X] 7:30-7:55 Eat Breakfast
-** [X] 10:55-11:20 Workout
-** [X] 1:15-1:35 Shower
-** [X] 6:00-6:45 Walk Bailey
+** [ ] Curology before school/before bed
+** [ ] 10:55-11:20 Workout
+** [ ] 1:15-1:35 Shower
+** [ ] 6:00-6:45 Walk Bailey
 * School
 ** Monday
-*** TODO RA in English. Pull up Notes etc.
+*** TODO
 ** Tuesday
 *** TODO
 ** Wedensday
@@ -50,11 +52,10 @@
 ** Thursday
 *** TODO
 ** Friday
-*** TODO
+*** TODO Physics FRQ During 4th period
+*** TODO Math Final Four
+*** TODO Covid Vaccine at 3
 ** Saturday
-*** TODO Check LA Website for Vax/Temecula?
-*** TODO Hangout With Nathan to study phyics (MCQ + FRQ). What Time?
-*** TODO Pivot: Ramp Rolling With various oobjects and 2 ap questions
+*** TODO Clean Room (Desk, Chair, nightstand, papers, bedsheets, dust ontop of bed frame, put blinds thing back up, mouse/keyboard, mousepad, bed frame towards desk, dust under blinds, laundry?)
 ** Sunday
-*** TODO Go over equations and their respective topics
-*** TODO Review Ap Rhetorical Analysis rubric, examples, etc
+*** TODO Golf with the fam/regs @ 2? (Easter)
