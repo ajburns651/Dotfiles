@@ -260,6 +260,7 @@ myKeys home =
         , ("M-e b", spawn "emacsclient -c -a 'emacs' --eval '(ibuffer)'")         -- list emacs buffers
         , ("M-e d", spawn "emacs .")                                              -- dired emacs file manager
         , ("M-e m", spawn "emacsclient -c -a 'emacs' --eval '(mu4e)'")            -- mu4e emacs email client
+        , ("M-e s", spawn "emacsclient -c -a 'emacs' --eval '(eshell)'")          -- eshell within emacs
 
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client

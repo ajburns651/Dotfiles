@@ -1,3 +1,4 @@
+filter 
 bind -f common c toggle continue
 toggle continue
 set status_display_program=

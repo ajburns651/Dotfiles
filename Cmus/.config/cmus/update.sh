@@ -1,4 +1,5 @@
 #!/bin/bash
 cmus-remote -C clear
 cmus-remote -C "add ~/Music"
+cmus-remote -C "add ~/Downloads"
 cmus-remote -C "update-cache -f"

@@ -58,6 +58,8 @@ function file-exists --argument file
 end
 
 ### ALIASES ###
+alias nvim='sudoedit'
+alias semacs='sudoedit'
 alias doom='~/.emacs.d/bin/doom'
 alias todo='~/Dotfiles/Scripts/todo.sh'
 alias ks='ls'

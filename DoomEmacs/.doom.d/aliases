@@ -1,0 +1,31 @@
+alias todo ~/Dotfiles/Scripts/todo.sh
+alias ks ls
+alias wumount sudo umount /dev/nvme0n1p3
+alias wmount sudo mount /dev/nvme0n1p3 /mnt/Windows
+alias cupdate /home/keb/Dotfiles/Scripts/recentlyinstalled.sh
+alias pfetch curl https://raw.githubusercontent.com/dylanaraps/pfetch/master/pfetch | sh
+alias reloadx xrdb $XDG_DATA_HOME/.Xresources
+alias update sudo pacman -Syyuu && yay -Syu
+alias shutdown shutdown now
+alias scrot scrot ~/Pictures/Screenshots/%b%d::%H%M%S.png
+alias polkitpass exec /usr/bin/lxsession
+alias ... cd ../../
+alias .... cd ../../../
+alias .. cd ..
+alias stow sudo stow
+alias ls exa -al --color=always --group-directories-first
+alias lsh exa -a --color=always --group-directories-first
+alias hibernate sudo systemctl suspend
+alias tree tree -a
+alias mkdir mkdir -p
+alias mkdircp cp --parents
+alias cp cp -ri
+alias mv mv -i
+alias rm rm -i
+alias yeet rm -i
+alias nvidia-settings nvidia-settings --config="$XDG_CONFIG_HOME"/nvidia/settings
+alias ff find-file $1
+alias doomsync ~/.emacs.d/bin/doom sync
+alias doomdoctor ~/.emacs.d/bin/doom doctor
+alias doomupgrade ~/.emacs.d/bin/doom upgrade
+alias doompurge ~/.emacs.d/bin/doom purge

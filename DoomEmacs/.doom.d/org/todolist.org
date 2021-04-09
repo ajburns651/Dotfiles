@@ -1,47 +1,21 @@
-#+TITLE: TODO LIST
+# My Personal To-Do list
 # SPC-m-t-t todo
-# Spc-m-t-d done
-# Spc-m-t-s in progress
-======= 2/21 - 2/ 27 =======
+# SPC-m-t-d Done
+# SPC-m-t-s Started
+
 * Weekly
-** DONE Study Physics for Midterm
-*** DONE MC Sheets [10/10]
-**** [X] APB_MC01
-**** [X] APB_MC02
-**** [X] APB_MC03
-**** [X] APB_MC04
-**** [X] APB_MC05
-**** [X] APB_MC06
-**** [X] APB_MC08
-**** [X] APB_MC07
-**** [X] APB_MC09
-**** [X] APB_MC15
-*** DONE Equations & Topics [12/12]
-**** DONE p=mv
-**** DONE pe=mgh
-**** DONE ke=1/2mv^2
-**** DONE W=Fdcos
-**** DONE P=W/t
-**** DONE Us=1/2kx^2
-**** DONE Fs=-kx
-**** DONE T=2pisqrt(m/k)
-**** DONE T=2pisqrt(l/g)
-**** DONE Fparallel=mgsin(0)
-**** DONE Fperp=mgcos(0)
-**** DONE deletap=mdeleta v / deltap=Ft
-*** DONE Review Past Tests [4/4]
-**** DONE 1st MCQ
-**** DONE 1st FRQ
-**** DONE 2nd MCQ
-**** DONE 2nd FRQ
-*** DONE Note Sheets for all topics
-** TODO Create own tutoring service and website? how would that work over summer?
-* Daily Routine [1/5]
-** [X] 7:30-7:55 Eat Breakfast
-** [ ] Curology before school/before bed
-** [ ] 10:55-11:20 Workout
-** [ ] 1:15-1:35 Shower
-** [ ] 6:00-6:45 Walk Bailey
+** AMA Heart Association
+*** TODO Make A groupchat
+*** TODO Create the team, website, and go fund me page.
+*** TODO Get a headcount and set the date
+** Download SuperMarket and start reading it
+* Daily [0/6]
+** [ ] 7:30-7:55 Breakfast
+** [ ] 7:55-8:00 Curology
+** [ ] 10:50-11:25 Workout
+** [ ] 11:25-11:50 Shower
+** [ ] 9:00-9:05 Curology
+** [ ] Journal Entry
 * School
 ** Monday
 *** TODO
@@ -52,10 +26,13 @@
 ** Thursday
 *** TODO
 ** Friday
-*** TODO Physics FRQ During 4th period
-*** TODO Math Final Four
-*** TODO Covid Vaccine at 3
+*** TODO Research Forms (I might only have do two since I frontloaded some last time. (Did 6 before)) Mark stuff as done
+*** TODO Review Special Words and their meanings for the act, as well as punctuation and what each one does. Make a quizlet if needed.
+*** TODO Lunch in Afternoon?
 ** Saturday
-*** TODO Clean Room (Desk, Chair, nightstand, papers, bedsheets, dust ontop of bed frame, put blinds thing back up, mouse/keyboard, mousepad, bed frame towards desk, dust under blinds, laundry?)
+*** TODO See if nathan is free for golf today
+*** TODO Do the Hard Math Problems in Matt's book
+*** TODO Research career opportunities between business and space related
 ** Sunday
-*** TODO Golf with the fam/regs @ 2? (Easter)
+*** TODO December 2020 Test
+*** TODO Read Through The book for more rules/nuances

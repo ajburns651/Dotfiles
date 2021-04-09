@@ -5,6 +5,7 @@ SETUVAR --export GNUPGHOME:/home/keb/SYSTEM/\x2edata/\x2egnupg
 SETUVAR --export --path OMF_PATH:/home/keb/SYSTEM/\x2edata/omf
 SETUVAR --export PASSWORD_STORE_DIR:/home/keb/SYSTEM/\x2edata//pass
 SETUVAR --export RXVT_SOCKET:/home/keb/SYSTEM/\x2edata/\x2eurxvt
+SETUVAR --export VISUAL:emacs
 SETUVAR --export XAUTHORITY:/home/keb/\x2eXauthority
 SETUVAR --export XDG_CACHE_HOME:/home/keb/SYSTEM/\x2ecache/
 SETUVAR XDG_CONFIG_HOME:/home/keb/SYSTEM/\x2econfig/
