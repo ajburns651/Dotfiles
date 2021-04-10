@@ -253,6 +253,7 @@ myKeys home =
         , ("M-M1-p", spawn ("picom --experimental-backend; killall picom"))
         , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))
+        , ("M-M1-S-v", spawn (myTerminal ++ " -e sudo virt-manager"))
         , ("M-M1-t", spawn ("emacs ~/.doom.d/org/todolist.org"))
 
    -- Emacs (Mod-e followed by a key)
@@ -334,9 +335,9 @@ myKeys home =
         , ("M-u <Space>", spawn "cmus-remote -u")
 
     -- Multimedia Keys
-        , ("M-M1-0", spawn "pactl set-sink-mute 0 toggle")
-        , ("M-M1-=", spawn "pactl -- set-sink-volume 0 +10%")
-        , ("M-M1--", spawn "pactl -- set-sink-volume 0 -10%")
+        , ("M-M1-0", spawn "pactl set-sink-mute 1 toggle")
+        , ("M-M1-=", spawn "pactl -- set-sink-volume 1 +10%")
+        , ("M-M1--", spawn "pactl -- set-sink-volume 1 -10%")
         ]
 
 main :: IO ()
