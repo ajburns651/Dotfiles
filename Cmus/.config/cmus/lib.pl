@@ -222,6 +222,32 @@
 /home/keb/Music/Tidal-HiFi/Album/J. Cole/[ME]  KOD [88460916] [2018]/10 - J. Cole - FRIENDS(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/J. Cole/[ME]  KOD [88460916] [2018]/11 - J. Cole - Window Pain (Outro)(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/J. Cole/[ME]  KOD [88460916] [2018]/12 - J. Cole - 1985 (Intro to “The Fall Off”)(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/01 - JID - Doo Wop(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/02 - JID - General(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/03 - JID - NEVER(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/04 - JID - EdEddnEddy(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/05 - JID - D-vision(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/06 - JID - Hereditary(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/07 - JID - All Bad(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/08 - JID - Underwear(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/09 - JID - 8701(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/10 - JID - Hoodbooger(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/11 - JID - Somebody(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  The Never Story [71037953] [2017]/12 - JID - LAUDER(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/01 - JID - Frequency Change(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/02 - JID - Slick Talk(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/03 - JID - Westbrook(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/04 - JID - Off Deez(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/05 - JID - 151 Rum(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/06 - JID - Off Da Zoinkys(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/07 - JID - Workin Out(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/08 - JID - Tiiied(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/09 - JID - Skrawberries(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/10 - JID - Hot Box(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/11 - JID - Mounted Up(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/12 - JID - Just Da Other Day(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/13 - JID - Despacito Too(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/JID/[E]  DiCaprio 2 [100122410] [2018]/14 - JID - Hasta Luego (Bonus)(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Along Came Joyner [63772624] [2015]/01 - Joyner Lucas - Intro (Skit).flac
 /home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Along Came Joyner [63772624] [2015]/02 - Joyner Lucas - Mansion.flac
 /home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Along Came Joyner [63772624] [2015]/03 - Joyner Lucas - That's OK.flac
@@ -590,3 +616,15 @@
 /home/keb/Music/Tidal-HiFi/Album/Mac Miller/[ME]  Swimming [92662560] [2018]/11 - Mac Miller - Jet Fuel(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/Mac Miller/[ME]  Swimming [92662560] [2018]/12 - Mac Miller - 2009(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/Mac Miller/[ME]  Swimming [92662560] [2018]/13 - Mac Miller - So It Goes(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/01 - Spillage Village - Spill Vill(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/02 - Spillage Village - Baptize(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/03 - Spillage Village - PsalmSing(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/04 - Spillage Village - Ea'alah (Family)(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/05 - Spillage Village - Mecca(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/06 - Spillage Village - Judas(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/07 - Spillage Village - Oshun(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/08 - Spillage Village - Cupid(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/09 - Spillage Village - Shiva(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/10 - Spillage Village - End Of Daze(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/11 - Spillage Village - Hapi(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Spillage Village/[ME]  Spilligion [156085145] [2020]/12 - Spillage Village - Jupiter(Explicit).flac
