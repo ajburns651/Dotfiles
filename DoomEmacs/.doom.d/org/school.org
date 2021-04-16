@@ -1,0 +1,24 @@
+# School Stuff
+
+* School
+** Monday
+*** TODO Argument Timed Write
+SCHEDULED: <2021-04-19 Mon>
+** Tuesday
+*** TODO
+** Wedensday
+*** TODO
+** Thursday
+*** TODO
+** Friday
+*** TODO
+** Saturday
+*** TODO Test English Practice Thing
+SCHEDULED: <2021-04-17 Sat>
+** Sunday
+*** TODO Read over argument essay timed stuff
+SCHEDULED: <2021-04-18 Sun>
+*** TODO Physics Group Assignment
+SCHEDULED: <2021-04-18 Sun>
+*** TODO Math Hw
+SCHEDULED: <2021-04-18 Sun>

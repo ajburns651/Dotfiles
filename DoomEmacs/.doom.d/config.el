@@ -138,7 +138,6 @@
       :desc "Counsel eshell history" "e h" #'counsel-esh-history)
 
 ;; Emacs Org Mode https://www.philnewton.net/blog/how-i-get-work-done-with-emacs/
-(setq org-agenda-files (directory-files-recursively "~/.doom.d/org/" "\\.org$"))
 
 (use-package org-agenda
   :after org
@@ -170,8 +169,8 @@
 	 "GHD+ACTIVE+PRIORITY=\"C\""
 	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	  (org-agenda-overriding-header "Secondary goals this month")))
-	(agenda))))
-)
+	(agenda)))))
+
 (after! org
         (setq org-todo-keywords        ; This overwrites the default Doom org-todo-keywords
           '((sequence
@@ -190,9 +189,11 @@
                   ("DONE" . "green")
                   ("ARCHIVED" .  "blue"))))
 
+;; Set The Date
 (use-package! org-super-agenda
     ;; ...
     :config
-    (setq org-agenda-start-day nil  ; today
-          ;; ...
-    ))
+    (setq org-agenda-start-day nil))  ; today
+
+;; Add org files to agenda
+(setq org-agenda-files (directory-files-recursively "~/.doom.d/org/" "\\.org$"))

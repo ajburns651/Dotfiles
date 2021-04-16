@@ -254,7 +254,7 @@ myKeys home =
         , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))
         , ("M-M1-S-v", spawn (myTerminal ++ " -e sudo virt-manager"))
-        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/todolist.org"))
+        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/general.org"))
 
    -- Emacs (Mod-e followed by a key)
         , ("M-e e", spawn "emacsclient -c -a 'emacs'")                            -- start emacs
@@ -262,7 +262,7 @@ myKeys home =
         , ("M-e d", spawn "emacs .")                                              -- dired emacs file manager
         , ("M-e m", spawn "emacsclient -c -a 'emacs' --eval '(mu4e)'")            -- mu4e emacs email client
         , ("M-e s", spawn "emacsclient -c -a 'emacs' --eval '(eshell)'")          -- eshell within emacs
-
+        , ("M-e t", spawn "emacsclient -c -a 'emacs' --eval '(org-agenda)'")      -- Open Org agenda
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client
         , ("M-S-a", killAll)   -- Kill all windows on current workspace
