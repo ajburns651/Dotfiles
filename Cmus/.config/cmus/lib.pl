@@ -315,36 +315,6 @@
 /home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E] Evolution [177337908] [2020]/10 - Joyner Lucas - Legend (feat. Rick Ross)(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E] Evolution [177337908] [2020]/11 - Joyner Lucas - Father's Day (Skit)(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E] Evolution [177337908] [2020]/12 - Joyner Lucas - Like a River (feat. Elijah James)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/01 - Joyner Lucas - Screening Evaluation (Skit)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/02 - Joyner Lucas - I Lied (Intro)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/03 - Logic - Isis (feat. Logic)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/04 - Young Thug - The War (feat. Young Thug)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/05 - Joyner Lucas - Chris (Skit)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/06 - Joyner Lucas - I Love(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/07 - Joyner Lucas - Devil's Work(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/08 - Joyner Lucas - Lotto(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/09 - Joyner Lucas - Kevin (Skit)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/10 - Joyner Lucas - Gold Mine(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/11 - Chris Brown - Finally (feat. Chris Brown)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/12 - Timbaland - 10 Bands (feat. Timbaland)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/13 - Joyner Lucas - Revenge(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/14 - Joyner Lucas - Comprehensive Evaluation (Skit)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/15 - Joyner Lucas - ADHD(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/16 - King OSF - Still Cant Love (feat. King OSF & Fabolous)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/17 - Joyner Lucas - Will.flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  ADHD [135453767] [2020]/18 - Joyner Lucas - Broke and Stupid(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/01 - Joyner Lucas - When I Grow Up (Intro)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/02 - Joyner Lucas - Evolution(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/03 - Joyner Lucas - On This Way (feat. The Game & Iyla)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/04 - Joyner Lucas - Zim Zimma(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/05 - Joyner Lucas - Tattle Tales (Skit)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/06 - Joyner Lucas - Snitch(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/07 - Joyner Lucas - Str8 Like Dat(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/08 - Joyner Lucas - Fall Slowly (feat. Ashanti) (Extended Version)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/09 - Joyner Lucas - The Problem(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/10 - Joyner Lucas - Legend (feat. Rick Ross)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/11 - Joyner Lucas - Father's Day (Skit)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Joyner Lucas/[E]  Evolution [177337908] [2020]/12 - Joyner Lucas - Like a River (feat. Elijah James)(Explicit).flac
 /home/keb/Music/Logic - Freestyles/Freestyle 1 (Straight Off The Top).mp3
 /home/keb/Music/Logic - Freestyles/Freestyle 2 (Sippin' Scotch).mp3
 /home/keb/Music/Logic - Freestyles/Freestyle 4 (Deeper feat. Silas).mp3
@@ -461,119 +431,119 @@
 /home/keb/Music/Logic - Welcome To Forever/Logic - 18. Just a Man.flac
 /home/keb/Music/Logic - Welcome To Forever/Logic - 19. Man of the Year.flac
 /home/keb/Music/Logic - Welcome To Forever/Logic - 20. The End.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/01 - Logic - Intro(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/02 - Logic - Soul Food(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/03 - Logic - I'm Gone(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/04 - Logic - Gang Related(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/05 - Logic - Buried Alive(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/06 - Logic - Bounce(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/07 - Logic - Growing Pains III(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/08 - Logic - Never Enough(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/09 - Logic - Metropolis(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/10 - Logic - Nikki(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/11 - Logic - Under Pressure(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/12 - Logic - Till The End(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/13 - Logic - Driving Ms Daisy(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/14 - Logic - Now(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Under Pressure (Deluxe) [79279857] [2014]/15 - Logic - Alright(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/01 - Logic - Contact(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/02 - Logic - Fade Away(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/03 - Logic - Upgrade(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/04 - Logic - White People (Scene)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/05 - Logic - Like Woah(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/06 - Logic - Young Jesus(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/07 - Logic - Innermission(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/08 - Logic - I Am The Greatest(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/09 - Logic - The Cube (Scene)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/10 - Logic - Lord Willin'(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/11 - Logic - City Of Stars(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/12 - Logic - Stainless(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/13 - Logic - Babel (Scene).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/14 - Logic - Paradise(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/15 - Logic - Never Been(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/16 - Logic - Run It(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/17 - Logic - Lucidity (Scene)(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  The Incredible True Story [77704390] [2015]/18 - Logic - The Incredible True Story(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/01 - Logic - illuminatro(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/02 - Logic - Flexicution(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/03 - Logic - The Jam(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/04 - Logic - Slave II(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/05 - Logic - A Word From Our Sponsor(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/06 - Logic - Wrist(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/07 - Logic - Super Mario World(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/08 - Logic - Studio Ambience At Night- Malibu(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/09 - Logic - 44 Bars(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/10 - Logic - Slave(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[E]  Bobby Tarantino [62474584] [2016]/11 - Logic - Deeper Than Money(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/01 - Logic - Hallelujah(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/02 - Logic - Everybody(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/03 - Logic - Confess(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/04 - Logic - Killing Spree(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/05 - Logic - Take It Back(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/06 - Logic - America(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/07 - Logic - Ink Blot(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/08 - Logic - Mos Definitely(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/09 - Logic - Waiting Room(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/10 - Logic - 1-800-273-8255(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/11 - Logic - Anziety(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/12 - Logic - Black SpiderMan(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Everybody [77624112] [2017]/13 - Logic - AfricAryaN(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/01 - Logic - Grandpa's Space Ship(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/02 - Logic - Overnight(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/03 - Logic - Contra(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/04 - Logic - BoomTrap Protocol(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/05 - Logic - Yuck(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/06 - Logic - Indica Badu(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/07 - Logic - Midnight(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/08 - Logic - Warm It Up(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/09 - Logic - Wizard Of Oz(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/10 - Logic - State Of Emergency(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/11 - Logic - Wassup(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/12 - Logic - Everyday(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Bobby Tarantino II [85424717] [2018]/13 - Logic - 44 More(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/01 - Logic - Thank You(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/02 - Logic - Everybody Dies(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/03 - Logic - The Return(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/04 - Logic - The Glorious Five(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/05 - Logic - One Day(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/06 - Logic - Wu Tang Forever(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/07 - Logic - 100 Miles and Running(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/08 - Logic - Ordinary Day(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/09 - Logic - YSIV(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/10 - Logic - Street Dreams II(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/11 - Logic - The Adventures Of Stoney Bob(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/12 - Logic - Legacy(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/13 - Logic - ICONIC(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  YSIV [95618510] [2018]/14 - Logic - Last Call(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/01 - Logic - Bohemian Trapsody(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/02 - Logic - Can I Kick It(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/03 - Logic - Time Machine.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/04 - Logic - Pretty Young Girl(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/05 - Logic - Supermarket(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/06 - Logic - Baby(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/07 - Logic - By The Bridge.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/08 - Logic - Best Friend.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/09 - Logic - Lemon Drop(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/10 - Logic - I'm Probably Gonna Rock Your World.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/11 - Logic - Vacation From Myself.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/12 - Logic - DeLorean(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Supermarket (Soundtrack) [106210035] [2019]/13 - Logic - I Love You Forever(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/01 - Logic - Confessions of a Dangerous Mind(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/02 - Logic - Homicide(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/03 - Logic - Wannabe(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/04 - Logic - clickbait(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/05 - Logic - Mama-Show Love(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/06 - Logic - Out Of Sight(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/07 - Logic - Pardon My Ego(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/08 - Logic - COMMANDO(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/09 - Logic - Icy(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/10 - Logic - Still Ballin(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/11 - Logic - Cocaine(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/12 - Logic - Limitless(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/13 - Logic - Keanu Reeves(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/14 - Logic - Don't Be Afraid To Be Different(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/15 - Logic - BOBBY(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  Confessions of a Dangerous Mind [112540811] [2019]/16 - Logic - Lost In Translation(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/01 - Logic - Intro(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/02 - Logic - Soul Food(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/03 - Logic - I'm Gone(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/04 - Logic - Gang Related(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/05 - Logic - Buried Alive(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/06 - Logic - Bounce(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/07 - Logic - Growing Pains III(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/08 - Logic - Never Enough(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/09 - Logic - Metropolis(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/10 - Logic - Nikki(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/11 - Logic - Under Pressure(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/12 - Logic - Till The End(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/13 - Logic - Driving Ms Daisy(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/14 - Logic - Now(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Under Pressure/15 - Logic - Alright(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/01 - Logic - Contact(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/02 - Logic - Fade Away(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/03 - Logic - Upgrade(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/04 - Logic - White People (Scene)(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/05 - Logic - Like Woah(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/06 - Logic - Young Jesus(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/07 - Logic - Innermission(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/08 - Logic - I Am The Greatest(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/09 - Logic - The Cube (Scene)(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/10 - Logic - Lord Willin'(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/11 - Logic - City Of Stars(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/12 - Logic - Stainless(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/13 - Logic - Babel (Scene).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/14 - Logic - Paradise(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/15 - Logic - Never Been(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/16 - Logic - Run It(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/17 - Logic - Lucidity (Scene)(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/The Incredible True Story/18 - Logic - The Incredible True Story(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/01 - Logic - illuminatro(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/02 - Logic - Flexicution(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/03 - Logic - The Jam(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/04 - Logic - Slave II(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/05 - Logic - A Word From Our Sponsor(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/06 - Logic - Wrist(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/07 - Logic - Super Mario World(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/08 - Logic - Studio Ambience At Night- Malibu(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/09 - Logic - 44 Bars(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/10 - Logic - Slave(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino/11 - Logic - Deeper Than Money(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/01 - Logic - Hallelujah(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/02 - Logic - Everybody(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/03 - Logic - Confess(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/04 - Logic - Killing Spree(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/05 - Logic - Take It Back(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/06 - Logic - America(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/07 - Logic - Ink Blot(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/08 - Logic - Mos Definitely(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/09 - Logic - Waiting Room(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/10 - Logic - 1-800-273-8255(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/11 - Logic - Anziety(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/12 - Logic - Black SpiderMan(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Everybody/13 - Logic - AfricAryaN(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/01 - Logic - Grandpa's Space Ship(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/02 - Logic - Overnight(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/03 - Logic - Contra(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/04 - Logic - BoomTrap Protocol(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/05 - Logic - Yuck(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/06 - Logic - Indica Badu(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/07 - Logic - Midnight(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/08 - Logic - Warm It Up(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/09 - Logic - Wizard Of Oz(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/10 - Logic - State Of Emergency(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/11 - Logic - Wassup(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/12 - Logic - Everyday(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Bobby Tarantino II/13 - Logic - 44 More(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/01 - Logic - Thank You(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/02 - Logic - Everybody Dies(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/03 - Logic - The Return(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/04 - Logic - The Glorious Five(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/05 - Logic - One Day(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/06 - Logic - Wu Tang Forever(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/07 - Logic - 100 Miles and Running(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/08 - Logic - Ordinary Day(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/09 - Logic - YSIV(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/10 - Logic - Street Dreams II(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/11 - Logic - The Adventures Of Stoney Bob(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/12 - Logic - Legacy(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/13 - Logic - ICONIC(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/YSIV/14 - Logic - Last Call(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/01 - Logic - Bohemian Trapsody(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/02 - Logic - Can I Kick It(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/03 - Logic - Time Machine.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/04 - Logic - Pretty Young Girl(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/05 - Logic - Supermarket(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/06 - Logic - Baby(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/07 - Logic - By The Bridge.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/08 - Logic - Best Friend.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/09 - Logic - Lemon Drop(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/10 - Logic - I'm Probably Gonna Rock Your World.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/11 - Logic - Vacation From Myself.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/12 - Logic - DeLorean(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Supermarket/13 - Logic - I Love You Forever(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/01 - Logic - Confessions of a Dangerous Mind(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/02 - Logic - Homicide(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/03 - Logic - Wannabe(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/04 - Logic - clickbait(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/05 - Logic - Mama-Show Love(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/06 - Logic - Out Of Sight(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/07 - Logic - Pardon My Ego(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/08 - Logic - COMMANDO(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/09 - Logic - Icy(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/10 - Logic - Still Ballin(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/11 - Logic - Cocaine(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/12 - Logic - Limitless(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/13 - Logic - Keanu Reeves(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/14 - Logic - Don't Be Afraid To Be Different(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/15 - Logic - BOBBY(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/Confessions of a Danegrous Mind/16 - Logic - Lost In Translation(Explicit).flac
 /home/keb/Music/Logic - NP Leaks/Logic - 88 Bars.mp3
 /home/keb/Music/Logic - NP Leaks/Logic - Feelin My Self.mp3
 /home/keb/Music/Logic - NP Leaks/Logic - No Country For Old Man.mp3
@@ -588,21 +558,21 @@
 /home/keb/Music/Logic - NP Leaks/6. Perfect (feat. Juicy J).mp3
 /home/keb/Music/Logic - NP Leaks/GOD.mp3
 /home/keb/Music/Logic - Freestyles/Freestyle 3 (Five Finger Freestyle).mp3
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/01 - Logic - No Pressure Intro(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/02 - Logic - Hit My Line.flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/03 - Logic - GP4(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/04 - Logic - Celebration(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/05 - Logic - Open Mic--Aquarius III(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/06 - Logic - Soul Food II(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/07 - Logic - Perfect(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/08 - Logic - man i is(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/09 - Logic - DadBod(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/10 - Logic - 5 Hooks(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/11 - Logic - Dark Place(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/12 - Logic - A2Z(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/13 - Logic - Heard Em Say(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/14 - Logic - Amen(Explicit).flac
-/home/keb/Music/Tidal-HiFi/Album/Logic/[ME]  No Pressure [148995697] [2020]/15 - Logic - Obediently Yours.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/01 - Logic - No Pressure Intro(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/02 - Logic - Hit My Line.flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/03 - Logic - GP4(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/04 - Logic - Celebration(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/05 - Logic - Open Mic--Aquarius III(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/06 - Logic - Soul Food II(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/07 - Logic - Perfect(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/08 - Logic - man i is(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/09 - Logic - DadBod(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/10 - Logic - 5 Hooks(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/11 - Logic - Dark Place(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/12 - Logic - A2Z(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/13 - Logic - Heard Em Say(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/14 - Logic - Amen(Explicit).flac
+/home/keb/Music/Tidal-HiFi/Album/Logic/No Pressure/15 - Logic - Obediently Yours.flac
 /home/keb/Music/Tidal-HiFi/Album/Mac Miller/[ME]  Swimming [92662560] [2018]/01 - Mac Miller - Come Back to Earth.flac
 /home/keb/Music/Tidal-HiFi/Album/Mac Miller/[ME]  Swimming [92662560] [2018]/02 - Mac Miller - Hurt Feelings(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/Mac Miller/[ME]  Swimming [92662560] [2018]/03 - Mac Miller - What's the Use-(Explicit).flac

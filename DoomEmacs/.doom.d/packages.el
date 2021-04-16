@@ -52,3 +52,5 @@
 (package! org-bullets)
 (package! dired-open)
 (package! peep-dired)
+(package! org-projectile)
+(package! org-super-agenda)

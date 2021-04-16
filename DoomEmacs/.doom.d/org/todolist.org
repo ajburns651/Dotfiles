@@ -9,7 +9,7 @@
 *** TODO Create the team, website, and go fund me page.
 *** TODO Get a headcount and set the date
 ** Download SuperMarket and start reading it
-* Daily [0/6]
+* Daily [0/0]
 ** [ ] 7:30-7:55 Breakfast
 ** [ ] 7:55-8:00 Curology
 ** [ ] 10:50-11:25 Workout
@@ -18,20 +18,39 @@
 ** [ ] Journal Entry
 * School
 ** Monday
-*** TODO
+*** TODO Argument Timed Write
+SCHEDULED: <2021-04-19 Mon>
+*** TODO Mark Amanda As Done
+SCHEDULED: <2021-04-19 Mon>
 ** Tuesday
 *** TODO
+SCHEDULED: <2021-04-20 Tue>
 ** Wedensday
 *** TODO
+SCHEDULED: <2021-04-21 Wed>
 ** Thursday
-*** TODO
+*** TODO Amanda Meeting
+SCHEDULED: <2021-04-22 Thu 14:00>
 ** Friday
-*** TODO
+*** TODO Golf at 2:10
+SCHEDULED: <2021-04-16 Fri 14:10>
+*** TODO Review Past Tests
+SCHEDULED: <2021-04-16 Fri>
+*** TODO Read Through book
+SCHEDULED: <2021-04-16 Fri>
 ** Saturday
-*** TODO Photos
-*** TODO See if nathan is free for golf today
-*** TODO Do the Hard Math Problems in Matt's book
-*** TODO Research career opportunities between business and space related
+*** TODO Find Shoeeeees
+SCHEDULED: <2021-04-17 Sat>
+*** TODO Review Past Tests
+SCHEDULED: <2021-04-17 Sat>
+*** TODO Test English Practice Thing
+SCHEDULED: <2021-04-17 Sat>
+*** TODO Read Through book
+SCHEDULED: <2021-04-17 Sat>
 ** Sunday
-*** TODO December 2020 Test
-*** TODO Read Through The book for more rules/nuances
+*** TODO ACT at 8
+SCHEDULED: <2021-04-18 Sun 08:00>
+*** TODO Read over argument essay timed stuff
+SCHEDULED: <2021-04-18 Sun>
+*** TODO Physics Group Assignment
+SCHEDULED: <2021-04-18 Sun>

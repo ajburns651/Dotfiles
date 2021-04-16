@@ -136,3 +136,63 @@
 (map! :leader
       :desc "Eshell" "e s" #'eshell
       :desc "Counsel eshell history" "e h" #'counsel-esh-history)
+
+;; Emacs Org Mode https://www.philnewton.net/blog/how-i-get-work-done-with-emacs/
+(setq org-agenda-files (directory-files-recursively "~/.doom.d/org/" "\\.org$"))
+
+(use-package org-agenda
+  :after org
+  :custom
+  (org-agenda-prefix-format '((agenda . " %i %-20:c%?-12t%-6e% s")
+			      (todo   . " %i %-20:c %-6e")
+			      (tags   . " %i %-20:c")
+			      (search . " %i %-20:c"))))
+
+(setq org-agenda-custom-commands
+'(("d" "Today's Tasks"
+	((tags-todo
+	  "GHD+ACTIVE+PRIORITY=\"A\""
+	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	   (org-agenda-overriding-header "Primary goals this month")))
+	 (tags-todo
+	  "GHD+ACTIVE+PRIORITY=\"C\""
+	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	   (org-agenda-overriding-header "Secondary goals this month")))
+	 (agenda "" ((org-agenda-span 1)
+		     (org-agenda-overriding-header "Today")))))
+
+  ("w" "This Week's Tasks"
+       ((tags-todo
+	 "GHD+ACTIVE+PRIORITY=\"A\""
+	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	  (org-agenda-overriding-header "Primary goals this month")))
+	(tags-todo
+	 "GHD+ACTIVE+PRIORITY=\"C\""
+	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	  (org-agenda-overriding-header "Secondary goals this month")))
+	(agenda))))
+)
+(after! org
+        (setq org-todo-keywords        ; This overwrites the default Doom org-todo-keywords
+          '((sequence
+             "TODO(t)"           ; A task that is ready to be tackled
+             "IN-PROGRESS(s)"    ; Something That is in progress
+             "TESTING(t)"        ; Things Im testing
+             "WAITING(w)"        ; Things Im Waiting on
+             "TO-DEPLOY(g)"      ; Done and & Ready, but waiting for a date or time
+             "DONE(d)"           ; Task has been completed
+             "CANCELLED(c)" )))  ; Task has been cancelled
+        (setq org-todo-keyword-faces
+                '(("TODO")
+                  ("IN-PROGRESS" . "yellow")
+                  ("CANCELLED" . "red")
+                  ("WAITING" . "white")
+                  ("DONE" . "green")
+                  ("ARCHIVED" .  "blue"))))
+
+(use-package! org-super-agenda
+    ;; ...
+    :config
+    (setq org-agenda-start-day nil  ; today
+          ;; ...
+    ))
