@@ -198,4 +198,8 @@
 ;; Add org files to agenda
 (setq org-agenda-files (directory-files-recursively "~/.doom.d/org/" "\\.org$"))
 
+;; Prefer newer bytes when updating
 (setq load-prefer-newer t)
+
+;; Org-fratog setup
+(add-hook 'org-mode-hook 'org-fragtog-mode)

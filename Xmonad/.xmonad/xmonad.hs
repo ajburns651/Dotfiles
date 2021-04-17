@@ -98,6 +98,7 @@ myStartupHook = do
           spawnOnce "rm -rf ~/.bash_profile &"
           spawnOnce "rm -rf ~/.bash_logout"
           spawnOnce "rm -rf ~/.cache"
+          spawnOnce "/usr/bin/emacs --daemon &"
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
 mySpacing :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
