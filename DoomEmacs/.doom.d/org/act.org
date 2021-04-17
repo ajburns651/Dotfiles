@@ -13,13 +13,8 @@
 ** Thursday
 *** TODO
 ** Friday
-*** TODO Review Past Tests
-SCHEDULED: <2021-04-16 Fri>
-*** TODO Read Through book
-SCHEDULED: <2021-04-16 Fri>
+*** TODO
 ** Saturday
-*** TODO Review Past Tests
-SCHEDULED: <2021-04-17 Sat>
 *** TODO Read Through book
 SCHEDULED: <2021-04-17 Sat>
 ** Sunday

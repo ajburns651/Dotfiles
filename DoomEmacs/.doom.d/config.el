@@ -197,3 +197,5 @@
 
 ;; Add org files to agenda
 (setq org-agenda-files (directory-files-recursively "~/.doom.d/org/" "\\.org$"))
+
+(setq load-prefer-newer t)

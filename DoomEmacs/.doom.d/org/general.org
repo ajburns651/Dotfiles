@@ -20,8 +20,7 @@
 ** Thursday
 *** TODO
 ** Friday
-*** TODO Golf at 2:10
-SCHEDULED: <2021-04-16 Fri 14:10>
+*** TODO
 ** Saturday
 *** TODO Find Shoeeeees
 SCHEDULED: <2021-04-17 Sat>
