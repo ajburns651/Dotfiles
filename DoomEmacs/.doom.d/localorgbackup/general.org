@@ -22,6 +22,7 @@
 ** Friday
 *** TODO
 ** Saturday
-*** TODO
+*** TODO Vaccine appt?
+SCHEDULED: <2021-04-24 Sat>
 ** Sunday
 *** TODO

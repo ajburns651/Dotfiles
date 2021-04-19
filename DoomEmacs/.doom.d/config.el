@@ -213,3 +213,5 @@
 (add-hook 'org-mode-hook 'org-fragtog-mode)
 (setq org-latex-create-formula-image-program 'dvisvgm)
 
+;; Change File refresh to 5s
+(global-auto-revert-mode 1)
