@@ -157,6 +157,10 @@
 	  "GHD+ACTIVE+PRIORITY=\"C\""
 	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	   (org-agenda-overriding-header "Secondary goals this month")))
+         (tags-todo
+	 "-{.*}"
+         ((org-agenda-files '("~/Dropbox/Org/Inbox.org"))
+	  (org-agenda-overriding-header "Items From Phone")))
 	 (agenda "" ((org-agenda-span 1)
 		     (org-agenda-overriding-header "Today")))))
 
@@ -169,6 +173,10 @@
 	 "GHD+ACTIVE+PRIORITY=\"C\""
 	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	  (org-agenda-overriding-header "Secondary goals this month")))
+	(tags-todo
+	 "-{.*}"
+         ((org-agenda-files '("~/Dropbox/Org/Inbox.org"))
+	  (org-agenda-overriding-header "Items From Phone")))
 	(agenda)))))
 
 (after! org
@@ -203,3 +211,5 @@
 
 ;; Org-fratog setup
 (add-hook 'org-mode-hook 'org-fragtog-mode)
+(setq org-latex-create-formula-image-program 'dvisvgm)
+

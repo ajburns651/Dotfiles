@@ -22,7 +22,6 @@
 ** Friday
 *** TODO
 ** Saturday
-*** TODO Find Shoeeeees
-SCHEDULED: <2021-04-17 Sat>
+*** TODO
 ** Sunday
 *** TODO

@@ -15,8 +15,7 @@
 ** Friday
 *** TODO
 ** Saturday
-*** TODO Read Through book
-SCHEDULED: <2021-04-17 Sat>
+*** TODO
 ** Sunday
-*** TODO ACT at 8
+*** DONE ACT at 8
 SCHEDULED: <2021-04-18 Sun 08:00>
