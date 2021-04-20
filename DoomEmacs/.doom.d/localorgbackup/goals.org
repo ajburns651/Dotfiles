@@ -1,4 +1,4 @@
-* TODO April 2021 [0/2] :GHD:ACTIVE:
+* TODO April 2021 [0/2]
 ** TODO [#A] American Heart Asossciation
 *** TODO Create Group Chat
 *** TODO Create Team

@@ -150,11 +150,11 @@
 (setq org-agenda-custom-commands
 '(("d" "Today's Tasks"
 	((tags-todo
-	  "GHD+ACTIVE+PRIORITY=\"A\""
+	  "PRIORITY=\"A\""
 	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	   (org-agenda-overriding-header "Primary goals this month")))
 	 (tags-todo
-	  "GHD+ACTIVE+PRIORITY=\"C\""
+	  "PRIORITY=\"C\""
 	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	   (org-agenda-overriding-header "Secondary goals this month")))
          (tags-todo
@@ -166,11 +166,11 @@
 
   ("w" "This Week's Tasks"
        ((tags-todo
-	 "GHD+ACTIVE+PRIORITY=\"A\""
+	 "PRIORITY=\"A\""
 	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	  (org-agenda-overriding-header "Primary goals this month")))
 	(tags-todo
-	 "GHD+ACTIVE+PRIORITY=\"C\""
+	 "PRIORITY=\"C\""
 	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
 	  (org-agenda-overriding-header "Secondary goals this month")))
 	(tags-todo
@@ -194,9 +194,13 @@
                   ("IN-PROGRESS" . "yellow")
                   ("CANCELLED" . "red")
                   ("WAITING" . "white")
-                  ("DONE" . "green")
-                  ("ARCHIVED" .  "blue"))))
+                  ("DONE" . (:strike-through t :foreground "green"))
+                  ("ARCHIVED" .  "blue")))
+        (setq org-todo-heads
+              '(("DONE" . (:strike-through t :foreground "green"))
+                )))
 
+;;(set-face-attribute 'org-headline-done nil :strike-through t)
 ;; Set The Date
 (use-package! org-super-agenda
     ;; ...
@@ -204,7 +208,7 @@
     (setq org-agenda-start-day nil))  ; today
 
 ;; Add org files to agenda
-(setq org-agenda-files (directory-files-recursively "~/.doom.d/org/" "\\.org$"))
+(setq org-agenda-files (directory-files-recursively "~/Dropbox/Org/" "\\.org$"))
 
 ;; Prefer newer bytes when updating
 (setq load-prefer-newer t)
@@ -213,5 +217,12 @@
 (add-hook 'org-mode-hook 'org-fragtog-mode)
 (setq org-latex-create-formula-image-program 'dvisvgm)
 
-;; Change File refresh to 5s
-(global-auto-revert-mode 1)
+;; Auto updating schedule on agenda u/itistheblurstoftimes on Reddit <3
+(defun org-agenda-auto-refresh-agenda-buffer ()
+  "If we're in an agenda file, and there is an agenda buffer, refresh it."
+  (when (org-agenda-file-p)
+    (when-let ((buffer (get-buffer org-agenda-buffer-name)))
+      (with-current-buffer buffer
+	(org-agenda-redo-all)))))
+
+(add-hook 'after-revert-hook #'org-agenda-auto-refresh-agenda-buffer)
