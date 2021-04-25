@@ -184,7 +184,7 @@
           '((sequence
              "TODO(t)"           ; A task that is ready to be tackled
              "IN-PROGRESS(s)"    ; Something That is in progress
-             "TESTING(t)"        ; Things Im testing
+             "TESTING(e)"        ; Things Im testing
              "WAITING(w)"        ; Things Im Waiting on
              "TO-DEPLOY(g)"      ; Done and & Ready, but waiting for a date or time
              "DONE(d)"           ; Task has been completed
@@ -195,7 +195,7 @@
                   ("CANCELLED" . "red")
                   ("WAITING" . "white")
                   ("DONE" . (:strike-through t :foreground "green"))
-                  ("ARCHIVED" .  "blue")))
+                  ("TESTING" .  "lightblue")))
         (setq org-todo-heads
               '(("DONE" . (:strike-through t :foreground "green"))
                 )))
