@@ -55,3 +55,4 @@
 (package! org-projectile)
 (package! org-super-agenda)
 (package! org-fragtog)
+(package! treemacs-evil)
