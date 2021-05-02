@@ -1,0 +1,271 @@
+;;; $DOOMDIR/config.el -*- lexical-binding: t; -*-
+
+;; Place your private configuration here! Remember, you do not need to run 'doom
+;; sync' after modifying this file!
+
+
+;; Some functionality uses this to identify you, e.g. GPG configuration, email
+;; clients, file templates and snippets.
+
+;; Doom exposes five (optional) variables for controlling fonts in Doom. Here
+;; are the three important ones:
+;;
+;; + `doom-font'
+;; + `doom-variable-pitch-font'
+;; + `doom-big-font' -- used for `doom-big-font-mode'; use this for
+;;   presentations or streaming.
+;;
+;; They all accept either a font-spec, font string ("Input Mono-12"), or xlfd
+;; font string. You generally only need these two:
+;; (setq doom-font (font-spec :family "monospace" :size 12 :weight 'semi-light)
+;;       doom-variable-pitch-font (font-spec :family "sans" :size 13))
+
+;; There are two ways to load a theme. Both assume the theme is installed and
+;; available. You can either set `doom-theme' or manually load a theme with the
+;; `load-theme' function. This is the default:
+(setq doom-theme 'doom-dracula)
+
+;; If you use `org' and don't want your org files in the default location below,
+;; change `org-directory'. It must be set before org loads!
+(setq org-directory "~/.doom.d/org/")
+
+;; This determines the style of line numbers in effect. If set to `nil', line
+;; numbers are disabled. For relative line numbers, set this to `relative'.
+(setq display-line-numbers-type t)
+
+
+;; Here are some additional functions/macros that could help you configure Doom:
+;;
+;; - `load!' for loading external *.el files relative to this one
+;; - `use-package!' for configuring packages
+;; - `after!' for running code after a package has loaded
+;; - `add-load-path!' for adding directories to the `load-path', relative to
+;;   this file. Emacs searches the `load-path' when you load packages wit
+;;   `require' or `use-package'.
+;; - `map!' for binding new keys
+;;
+;; To get information about any of these functions/macros, move the cursor over
+;; the highlighted symbol at press 'K' (non-evil users must press 'C-c c k').
+;; This will open documentation for it, including demos of how they are used.
+;;
+;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
+;; they are implemented.
+
+
+;; Setting the font
+(setq doom-font (font-spec :family "UbuntuMono Nerd Font" :size 25))
+(map! "C-S-v" #'clipboard-yank)
+
+;; Dired keybinds
+(defun dired-switch-to-dir (path)
+  ;; Open Dired with specified path to a directory
+  (interactive)
+  (dired-jump :FILE-NAME (expand-file-name path)))
+
+(map! :leader
+      (:prefix ("d" . "dired")
+       :desc "Open dired" "d" #'dired
+       :desc "Dired jump to current" "j" #'dired-jump
+       :desc "Open $HOME in dired" "h" (lambda () (interactive) (dired-switch-to-dir "/home/keb/"))
+       :desc "Open root in dired"  "r" (lambda () (interactive) (dired-switch-to-dir "/")))
+      (:after dired
+       (:map dired-mode-map
+        :desc "Peep-dired image previews" "d p" #'peep-dired
+        :desc "Create new file" "d c" #'find-file
+        :desc "Dired view file" "d v" #'dired-view-file)))
+;; Make 'h' and 'l' go back and forward in dired. Much faster to navigate the directory structure!
+(evil-define-key 'normal dired-mode-map
+  (kbd "h") 'dired-up-directory
+  (kbd "l") 'dired-open-file
+  (kbd "<left>") 'dired-up-directory
+  (kbd "<right>") 'dired-open-file) ; use dired-find-file instead if not using dired-open package
+;; If peep-dired is enabled, you will get image previews as you go up/down with 'j' and 'k'
+(evil-define-key 'normal peep-dired-mode-map
+  (kbd "j") 'peep-dired-next-file
+  (kbd "k") 'peep-dired-prev-file
+  (kbd "<up>") 'peep-dired-prev-file
+  (kbd "<down>") 'peep-dired-next-file)
+(add-hook 'peep-dired-hook 'evil-normalize-keymaps)
+;; With dired-open plugin, you can launch external programs for certain extensions
+;; For example, I set all .png files to open in 'sxiv' and all .mp4 files to open in 'mpv'
+(setq dired-open-extensions '(("gif" . "feh")
+                              ("jpg" . "feh")
+                              ("png" . "feh")
+                              ("pdf" . "brave")
+                              ("mkv" . "mpv")
+                              ("docx" . "brave")
+                              ("mp4" . "mpv")))
+
+;; Email Config
+(setq user-mail-address "ajburns651@gmail.com"
+      user-full-name  "Alex Burns"
+      ;; I have my mbsyncrc in a different folder on my system, to keep it separate from the
+      ;; mbsyncrc available publicly in my dotfiles. You MUST edit the following line.
+      ;; Be sure that the following command is: "mbsync -c ~/.config/mu4e/mbsyncrc -a"
+      mu4e-get-mail-command "mbsync -c ~/.config/mu4e/mbsyncrc -a"
+      mu4e-update-interval  300
+      mu4e-main-buffer-hide-personal-addresses t
+      message-send-mail-function 'smtpmail-send-it
+      starttls-use-gnutls t
+      smtpmail-starttls-credentials '(("smtp.gmail.com" 587 nil nil))
+      mu4e-sent-folder "/gmail/Sent"
+      mu4e-drafts-folder "/gmail/Drafts"
+      mu4e-trash-folder "/gmail/Trash"
+      mu4e-maildir-shortcuts
+      '(("/gmail/Inbox"      . ?i)
+        ("/gmail/Sent Items" . ?s)
+        ("/gmail/Drafts"     . ?d)
+        ("/gmail/Trash"      . ?t)))
+
+;; Prefer Vertical Split
+(defun prefer-horizontal-split ()
+  (set-variable 'split-height-threshold nil t)
+  (set-variable 'split-width-threshold 40 t)) ; make this as low as needed
+(add-hook 'markdown-mode-hook 'prefer-horizontal-split)
+(map! :leader
+      :desc "Clone indirect buffer other window" "b c" #'clone-indirect-buffer-other-window)
+
+;; Org bullets
+(after! org
+  (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1))))
+
+;; Eshell Settting
+(setq explicit-shell-file-name "/bin/bash"
+      shell-file-name "/bin/bash"
+      eshell-aliases-file "~/.doom.d/aliases"
+      eshell-history-size 5000
+      eshell-buffer-maximum-lines 5000
+      eshell-hist-ignoredups t
+      eshell-scroll-to-bottom-on-input t
+      eshell-destroy-buffer-when-process-dies t
+      eshell-visual-commands'("bash" "fish" "htop" "ssh" "top" "zsh")
+      vterm-max-scrollback 5000)
+(map! :leader
+      :desc "Eshell" "e s" #'eshell
+      :desc "Counsel eshell history" "e h" #'counsel-esh-history)
+
+;;; Agenda Settings
+
+(use-package org-agenda
+  :after org
+  :custom
+  (org-agenda-prefix-format '((agenda . " %i %-20:c%?-12t%-6e% s")
+			      (todo   . " %i %-20:c %-6e")
+			      (tags   . " %i %-20:c")
+			      (search . " %i %-20:c"))))
+
+(setq org-agenda-custom-commands
+'(("d" "Today's Tasks"
+	((tags-todo
+	  "PRIORITY=\"A\""
+	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	   (org-agenda-overriding-header "Primary goals this month")))
+	 (tags-todo
+	  "PRIORITY=\"C\""
+	  ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	   (org-agenda-overriding-header "Secondary goals this month")))
+         (tags-todo
+	 "-{.*}"
+         ((org-agenda-files '("~/Dropbox/Org/Inbox.org"))
+	  (org-agenda-overriding-header "Items From Phone")))
+	 (agenda "" ((org-agenda-span 1)
+		     (org-agenda-overriding-header "Today")))))
+
+  ("w" "This Week's Tasks"
+       ((tags-todo
+	 "PRIORITY=\"A\""
+	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	  (org-agenda-overriding-header "Primary goals this month")))
+	(tags-todo
+	 "PRIORITY=\"C\""
+	 ((org-agenda-files '("~/.doom.d/org/goals.org"))
+	  (org-agenda-overriding-header "Secondary goals this month")))
+	(tags-todo
+	 "-{.*}"
+         ((org-agenda-files '("~/Dropbox/Org/Inbox.org"))
+	  (org-agenda-overriding-header "Items From Phone")))
+	(agenda)))))
+
+(after! org
+        (setq org-todo-keywords        ; This overwrites the default Doom org-todo-keywords
+          '((sequence
+             "TODO(t)"           ; A task that is ready to be tackled
+             "PROG(p)"    ; Something That is in progress
+             "BLOCKED(b)"        ; Things That are not my choice to wait on
+             "WAITING(w)"        ; Things Im Waiting on
+             "|"                 ; separeates done tasks from not done ones
+             "DONE(d)"           ; Task has been completed
+             "CANCELLED(c)" )))  ; Task has been cancelled
+        (setq org-todo-keyword-faces
+                '(("TODO")
+                  ("PROG" . "yellow")
+                  ("CANCELLED" . "red")
+                  ("WAITING" . "white")
+                  ("DONE" . "green")
+                  ("BLOCKED" .  "lightblue")))
+        (setq org-log-done 'time))
+
+;;(set-face-attribute 'org-headline-done nil :strike-through t)
+;; Set The Date
+(use-package! org-super-agenda
+    ;; ...
+    :config
+    (setq org-agenda-start-day nil))  ; today
+
+;; Add org files to agenda
+(setq org-agenda-files (directory-files-recursively "~/Dropbox/Org/" "\\.org$"))
+;; Remove Work Hrs from agenda
+(setq org-agenda-files (remove "~/Dropbox/Org/WorkHours.org" org-agenda-files))
+
+; Org capture Templates
+
+
+
+
+
+;; Prefer newer bytes when updating
+(setq load-prefer-newer t)
+
+;; Org-fratog setup
+(add-hook 'org-mode-hook 'org-fragtog-mode)
+(setq org-latex-create-formula-image-program 'dvisvgm)
+
+;; Auto updating schedule on agenda u/itistheblurstoftimes on Reddit <3
+(defun org-agenda-auto-refresh-agenda-buffer ()
+  "If we're in an agenda file, and there is an agenda buffer, refresh it."
+  (when (org-agenda-file-p)
+    (when-let ((buffer (get-buffer org-agenda-buffer-name)))
+      (with-current-buffer buffer
+	(org-agenda-redo-all)))))
+(add-hook 'after-revert-hook #'org-agenda-auto-refresh-agenda-buffer)
+
+
+
+;;; Treemacs Config
+
+; Treemacs theme
+(setq doom-themes-treemacs-theme "Default")
+
+; Treemacs inital tree -- Requires manual editing sad
+(setq treemacs-persist-file (expand-file-name ".cache/treemacs-persist" user-emacs-directory))
+; Treemacs automatically toggle follow
+(use-package treemacs
+  :ensure t
+  :defer t
+  :init
+  (with-eval-after-load 'winum
+    (define-key winum-keymap (kbd "M-0") #'treemacs-select-window))
+  :config
+  (progn
+    (treemacs-follow-mode t)))
+
+
+;;; Auto Launching things at start
+
+; Auto Open treemacs on launch
+(add-hook 'emacs-startup-hook 'treemacs)
+; Auto open agenda to weekly view
+(add-hook 'after-init-hook (lambda () (org-agenda nil "w")))
+
+;; Overwrite Selected text
+(setq delete-selection-mode t)

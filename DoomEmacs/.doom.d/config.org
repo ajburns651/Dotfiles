@@ -1,9 +1,29 @@
+#+TITLE: Doom Emacs Config
+#+PROPERTY: header-args :tangle ~/.doom.d/config.el
+# C-c C-v t to tangle (Sync)
+* Doom Emacs Config
+An extensible Text Editor distributed by doom with vim like bindings. Hosts my mail client, File Manager, Agenda, and Notes.
+** Themes
+Here is where I set my overall Theme as well as override the theme for Treemacs
+
+#+begin_src emacs-lisp
 (setq doom-theme 'doom-dracula)               ; Sets Emacs theme to doom-dracula
 (setq doom-themes-treemacs-theme "Default")   ; Sets treemacs theme to the Default, otherwise it uses Doom icons
+#+end_src
 
+** Basic Settings
+Here is where I set things such as my org-directory, which is symlinked to my Dropbox folder, aswell as line numbers and fonts
+
+#+begin_src emacs-lisp
 (setq org-directory "~/.doom.d/org/")                                  ; Must be set before Org is Loaded
 (setq display-line-numbers-type t)                                     ; Can be deleted to hide or changed to be relative
 (setq doom-font (font-spec :family "UbuntuMono Nerd Font" :size 25))   ; Sets Emacs wide font, looks best for 4k Monitor
+#+end_src
+
+** Keybinds
+I set various shortcuts here aswell as keybindings for launching Dired (my file manager)
+
+#+begin_src emacs-lisp
 
 (map! "C-S-v" #'clipboard-yank)                     ; Binds C-S-V to paste, Alt+w is copy
 
@@ -38,7 +58,12 @@
 
 (map! :leader                                ; Clones current buffer into other window
       :desc "Clone indirect buffer other window" "b c" #'clone-indirect-buffer-other-window)
+#+end_src
 
+** Dired
+Here are custom settings for dired. Right now this only includes what program is used to launch files with certain extensions
+
+#+begin_src emacs-lisp
 (setq dired-open-extensions '(("gif" . "feh")
                               ("jpg" . "feh")
                               ("png" . "feh")
@@ -46,7 +71,12 @@
                               ("mkv" . "mpv")
                               ("docx" . "brave")
                               ("mp4" . "mpv")))
+#+end_src
 
+** Mu4e
+These are the settings for my email client. Currently the mu4e-get-mail-command does not work and needs to be manually set
+
+#+begin_src emacs-lisp
 (setq user-mail-address "ajburns651@gmail.com"
       user-full-name  "Alex Burns"
       mu4e-get-mail-command "mbsync -c ~/.config/mu4e/mbsyncrc -a"
@@ -63,6 +93,13 @@
         ("/gmail/Sent Items" . ?s)
         ("/gmail/Drafts"     . ?d)
         ("/gmail/Trash"      . ?t)))
+#+end_src
+
+
+** Emacs Specefic Settings
+A lumpsome of random settings that make me more comfortable using Emacs
+
+#+begin_src emacs-lisp
 
 (defun prefer-horizontal-split () ; Prefers Vertical split when creating new window
   (set-variable 'split-height-threshold nil t)
@@ -72,11 +109,24 @@
 (setq load-prefer-newer t)        ; Removes the error when using old doom things with a newer emacs
 (setq delete-selection-mode t)    ; Overwrites Selected Text when I am in insert mode
 
+#+end_src
+
+** Org Mode Settings
+This is the majority of my config. This hosts settings for regular org mode as well as the Agenda View
+
+*** General
+
+#+begin_src emacs-lisp
+
 (after! org
   (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))) ; Makes the org-bullets look nice instead of astricts
 
 (add-hook 'org-mode-hook 'org-fragtog-mode) ; Needed for org-fratog (Pretty equations inline, LaTeX)
 (setq org-latex-create-formula-image-program 'dvisvgm)
+#+end_src
+
+*** Agenda
+#+begin_src emacs-lisp
 
 (use-package org-agenda
   :after org
@@ -131,7 +181,12 @@
       (with-current-buffer buffer
 	(org-agenda-redo-all)))))
 (add-hook 'after-revert-hook #'org-agenda-auto-refresh-agenda-buffer)
+#+end_src
 
+*** Keywords
+These are the done states that I use. Anything after the | are done states, anything before are TODO states
+
+#+begin_src emacs-lisp
 (after! org
         (setq org-todo-keywords        ; This overwrites the default Doom org-todo-keywords
           '((sequence
@@ -150,6 +205,13 @@
                   ("DONE" . "green")
                   ("BLOCKED" .  "lightblue")))
         (setq org-log-done 'time))     ; Adds a closed timestamp when marking tasks as done
+#+end_src
+
+
+** Treemacs
+Here I set the inital view for treemacs and other settings. Note, the treemacs-persist file is hardcoded and only has read permissions to not be overwritten
+
+#+begin_src emacs-lisp
 
 (setq treemacs-persist-file "~/.doom.d/treemacs-persist")
 (use-package treemacs
@@ -162,5 +224,12 @@
   (progn
     (treemacs-follow-mode t)))
 
+#+end_src
+
+** Autostart
+Here I set the default view for when emacs launches
+
+#+begin_src emacs-lisp
 (add-hook 'emacs-startup-hook 'treemacs)                     ; Auto open treemacs on launch
 (add-hook 'after-init-hook (lambda () (org-agenda nil "w"))) ; Auto open agenda to weekly view
+#+end_src

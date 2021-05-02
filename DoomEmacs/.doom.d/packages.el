@@ -48,11 +48,11 @@
 ;(unpin! pinned-package another-pinned-package)
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;(unpin! t)
-
 (package! org-bullets)
 (package! dired-open)
 (package! peep-dired)
 (package! org-projectile)
 (package! org-super-agenda)
 (package! org-fragtog)
-(package! treemacs-evil)
+(package! org-roam)
+(package! org-journal)
