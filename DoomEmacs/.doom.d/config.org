@@ -1,4 +1,3 @@
-#+TITLE: Doom Emacs Config
 #+PROPERTY: header-args :tangle ~/.doom.d/config.el
 # C-c C-v t to tangle (Sync)
 * Doom Emacs Config
@@ -24,7 +23,6 @@ Here is where I set things such as my org-directory, which is symlinked to my Dr
 I set various shortcuts here aswell as keybindings for launching Dired (my file manager)
 
 #+begin_src emacs-lisp
-
 (map! "C-S-v" #'clipboard-yank)                     ; Binds C-S-V to paste, Alt+w is copy
 
 (defun dired-switch-to-dir (path)
@@ -100,7 +98,6 @@ These are the settings for my email client. Currently the mu4e-get-mail-command 
 A lumpsome of random settings that make me more comfortable using Emacs
 
 #+begin_src emacs-lisp
-
 (defun prefer-horizontal-split () ; Prefers Vertical split when creating new window
   (set-variable 'split-height-threshold nil t)
   (set-variable 'split-width-threshold 40 t))
@@ -117,7 +114,6 @@ This is the majority of my config. This hosts settings for regular org mode as w
 *** General
 
 #+begin_src emacs-lisp
-
 (after! org
   (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))) ; Makes the org-bullets look nice instead of astricts
 
@@ -127,7 +123,6 @@ This is the majority of my config. This hosts settings for regular org mode as w
 
 *** Agenda
 #+begin_src emacs-lisp
-
 (use-package org-agenda
   :after org
   :custom
@@ -212,7 +207,6 @@ These are the done states that I use. Anything after the | are done states, anyt
 Here I set the inital view for treemacs and other settings. Note, the treemacs-persist file is hardcoded and only has read permissions to not be overwritten
 
 #+begin_src emacs-lisp
-
 (setq treemacs-persist-file "~/.doom.d/treemacs-persist")
 (use-package treemacs
   :ensure t
