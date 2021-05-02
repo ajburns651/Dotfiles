@@ -98,6 +98,8 @@ myStartupHook = do
           spawnOnce "rm -rf ~/.bash_profile &"
           spawnOnce "rm -rf ~/.bash_logout"
           spawnOnce "rm -rf ~/.cache"
+          spawnOnce "/home/keb/Dotfiles/Scripts/watch-School-Org-Notes.sh"
+          spawnOnce "dropbox start"
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
 mySpacing :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
@@ -239,8 +241,8 @@ myKeys home =
         , ("M-S-p", swapNextScreen)
 
     -- Hide Windows
-	, ("M-M1-h", withFocused hideWindow)
-	, ("M-S-h", popOldestHiddenWindow)
+        , ("M-M1-h", withFocused hideWindow)
+        , ("M-S-h", popOldestHiddenWindow)
 
     -- Run Prompt
         , ("M-<Return>", spawn "~/.config/rofi/launchers/text/launcher.sh") -- rofi
@@ -249,13 +251,20 @@ myKeys home =
         , ("M-S-<Return>", spawn (myTerminal ++ " -e fish"))
         , ("M-b", spawn (myBrowser))
         , ("M-M1-s",spawn ("flameshot screen -n 0 -p ~/Pictures/Screenshots/")) 
-        , ("M-M1-f", spawn (myTerminal ++ " -e ranger"))
+        , ("M-M1-f", spawn "emacs .")
         , ("M-M1-p", spawn ("picom --experimental-backend; killall picom"))
         , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))
-        , ("M-e", spawn ("emacs")) 
-        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/todolist.org")) 
+        , ("M-M1-S-v", spawn "VirtualBox")
+        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/general.org"))
 
+   -- Emacs (Mod-e followed by a key)
+        , ("M-e e", spawn "emacsclient -c -a 'emacs'")                            -- start emacs
+        , ("M-e b", spawn "emacsclient -c -a 'emacs' --eval '(ibuffer)'")         -- list emacs buffers
+        , ("M-e d", spawn "emacs .")                                              -- dired emacs file manager
+        , ("M-e m", spawn "emacsclient -c -a 'emacs' --eval '(mu4e)'")            -- mu4e emacs email client
+        , ("M-e s", spawn "emacsclient -c -a 'emacs' --eval '(eshell)'")          -- eshell within emacs
+        , ("M-e t", spawn "emacsclient -c -a 'emacs' --eval '(org-agenda)'")      -- Open Org agenda
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client
         , ("M-S-a", killAll)   -- Kill all windows on current workspace
@@ -319,7 +328,7 @@ myKeys home =
 
     -- Controls for x11vnc (SUPER-v followed by a key)
         , ("M-v w", spawn "~/Dotfiles/Scripts/vnc.sh")
-        , ("M-v q", spawn "kill -9 x11vnc")
+        , ("M-v-k", spawn (myTerminal ++ " -e kill -9 x11vnc"))
 
     -- Controls for cmus music player (SUPER-u followed by a key)
         , ("M-u s", spawn "cmus-remote -s")
@@ -328,9 +337,9 @@ myKeys home =
         , ("M-u <Space>", spawn "cmus-remote -u")
 
     -- Multimedia Keys
-        , ("M-M1-0", spawn "pactl set-sink-mute 0 toggle")
-        , ("M-M1-=", spawn "pactl -- set-sink-volume 0 +10%")
-        , ("M-M1--", spawn "pactl -- set-sink-volume 0 -10%")
+        , ("M-M1-0", spawn "pactl set-sink-mute 1 toggle")
+        , ("M-M1-=", spawn "pactl -- set-sink-volume 1 +10%")
+        , ("M-M1--", spawn "pactl -- set-sink-volume 1 -10%")
         ]
 
 main :: IO ()

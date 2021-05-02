@@ -1,3 +1,12 @@
+#+TITLE: XMonad Config
+#+PROPERTY: header-args :tangle xmonad.hs
+# C-c C-v t to tangle (Sync)
+* XMonad Config
+Xmonad is a dynamically tiling X11 window manager
+** IMPORTS
+These are Haskell modules that we must import so that we can use their functions later in the config
+
+#+begin_src haskell
 -- Base
 import XMonad
 import System.Directory
@@ -54,6 +63,12 @@ import XMonad.Layout.Hidden
 import XMonad.Util.EZConfig (additionalKeysP)
 import XMonad.Util.Run (runProcessWithInput, safeSpawn, spawnPipe)
 import XMonad.Util.SpawnOnce
+#+end_src
+
+** Defines Default settings
+For example, what Terminal I use, my Main Browser, Font, and modifier keys
+
+#+begin_src haskell
 
 myFont :: String
 myFont = "xft:SauceCodePro Nerd Font Mono:regular:size=9:antialias=true:hinting=true"
@@ -88,6 +103,13 @@ myClickJustFocuses = False
 windowCount :: X (Maybe String)
 windowCount = gets $ Just . show . length . W.integrate' . W.stack . W.workspace . W.current . windowset
 
+#+end_src
+
+** Startup Programs
+EX: Set Wallpaper, launch polybar, reload Xresources, run script to watch folder for notes, and start dropbox for syncing
+
+#+begin_src haskell
+
 myStartupHook :: X ()
 myStartupHook = do
           spawnOnce "nitrogen --restore &"
@@ -101,6 +123,13 @@ myStartupHook = do
           spawnOnce "/home/keb/Dotfiles/Scripts/watch-School-Org-Notes.sh"
           spawnOnce "dropbox start"
 
+#+end_src
+
+** Spacing Settings
+Variable Space in between windows or no spacing if there is a single window
+
+#+begin_src haskell
+
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
 mySpacing :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
 mySpacing i = spacingRaw False (Border i i i i) True (Border i i i i) True
@@ -109,7 +138,12 @@ mySpacing i = spacingRaw False (Border i i i i) True (Border i i i i) True
 -- if fewer than two windows. So a single window has no gaps.
 mySpacing' :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
 mySpacing' i = spacingRaw True (Border i i i i) True (Border i i i i) True
+#+end_src
 
+** Defining layouts
+Limit Windows # = Limit maximum # of windows for layout. mySpacing # = sets gap size around windows
+
+#+begin_src haskell
 tall     = renamed [Replace "tall"]
            $ windowNavigation
            $ addTabs shrinkText myTabTheme
@@ -203,6 +237,12 @@ myLayoutHook = avoidStruts $ mouseResize $ hiddenWindows $  windowArrange $ T.to
                                  ||| spirals
                                  ||| threeCol
                                  ||| threeRow
+#+end_src
+
+** Workspaces
+These are clickable workspaces which means the mouse can be used to switch workspaces. Xmobar compatibility is left intact
+
+#+begin_src haskell
 
 xmobarEscape :: String -> String
 xmobarEscape = concatMap doubleLts
@@ -217,6 +257,12 @@ myClickableWorkspaces = clickable . (map xmobarEscape)
         clickable l = [ ws |
                       (i,ws) <- zip [1..9] l,
                       let n = i ]
+#+end_src
+
+** Keybinds
+This is where I defined Keybinds for programs and other things I wanted to have shortcuts for
+
+#+begin_src haskell
 
 myKeys :: String -> [([Char], X ())]
 myKeys home =
@@ -334,6 +380,12 @@ myKeys home =
         , ("M-M1-=", spawn "pactl -- set-sink-volume 1 +10%")
         , ("M-M1--", spawn "pactl -- set-sink-volume 1 -10%")]
 
+#+end_src
+** Main
+Main section of Xmonad which brings everything together to get a working config
+
+#+begin_src haskell
+
 main :: IO ()
 main = do
     home <- getHomeDirectory
@@ -354,3 +406,5 @@ main = do
         , focusFollowsMouse  = myFocusFollowsMouse
         , clickJustFocuses   = myClickJustFocuses
         } `additionalKeysP` myKeys home
+
+#+end_src
