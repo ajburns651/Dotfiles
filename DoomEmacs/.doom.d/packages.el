@@ -54,5 +54,4 @@
 (package! org-projectile)
 (package! org-super-agenda)
 (package! org-fragtog)
-(package! org-roam)
 (package! org-journal)

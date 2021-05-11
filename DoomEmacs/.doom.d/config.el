@@ -7,6 +7,10 @@
 
 (map! "C-S-v" #'clipboard-yank)                     ; Binds C-S-V to paste, Alt+w is copy
 
+(map! :leader
+      (:prefix ("o" . "open")
+       :desc "Open Bullet Journal" "b" #'isamert/toggle-side-bullet-org-buffer)) ; binds SPC-o-b to open daily journal
+
 (defun dired-switch-to-dir (path)
   (interactive)
   (dired-jump :FILE-NAME (expand-file-name path)))  ; Function neccessary for shortcuts that jump to a dired directory
@@ -161,6 +165,44 @@
   :config
   (progn
     (treemacs-follow-mode t)))
+
+(defun isamert/toggle-side-bullet-org-buffer () ; Function that toggles journal
+  "Toggle `bullet.org` in a side buffer for quick note taking.  The buffer is opened in side window so it can't be accidentaly removed."
+  (interactive)
+  (isamert/toggle-side-buffer-with-file "~/Dropbox/Org/bullet.org"))
+
+(defun isamert/buffer-visible-p (buffer)
+ "Check if given BUFFER is visible or not.  BUFFER is a string representing the buffer name."
+  (or (eq buffer (window-buffer (selected-window))) (get-buffer-window buffer)))
+
+(defun isamert/display-buffer-in-side-window (buffer)
+  "Just like `display-buffer-in-side-window' but only takes a BUFFER and rest of the parameters are for my taste."
+  (select-window
+   (display-buffer-in-side-window
+    buffer
+    (list (cons 'side 'right)
+          (cons 'slot 0)
+          (cons 'window-width 84)
+          (cons 'window-parameters (list (cons 'no-delete-other-windows t)
+                                         (cons 'no-other-window nil)))))))
+
+(defun isamert/remove-window-with-buffer (the-buffer-name)
+  "Remove window containing given THE-BUFFER-NAME."
+  (mapc (lambda (window)
+          (when (string-equal (buffer-name (window-buffer window)) the-buffer-name)
+            (delete-window window)))
+        (window-list (selected-frame))))
+
+(defun isamert/toggle-side-buffer-with-file (file-path)
+  "Toggle FILE-PATH in a side buffer. The buffer is opened in side window so it can't be accidentaly removed."
+  (interactive)
+  (let ((fname (file-name-nondirectory file-path)))
+  (if (isamert/buffer-visible-p fname)
+      (isamert/remove-window-with-buffer fname)
+    (isamert/display-buffer-in-side-window
+     (save-window-excursion
+       (find-file file-path)
+       (current-buffer))))))
 
 (add-hook 'emacs-startup-hook 'treemacs)                     ; Auto open treemacs on launch
 (add-hook 'after-init-hook (lambda () (org-agenda nil "w"))) ; Auto open agenda to weekly view
