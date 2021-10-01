@@ -177,6 +177,18 @@
 /home/keb/Music/Doc D - Planetory Destruction (DatPiff.com)/Doc D - Planetory Destruction (DatPiff.com)/15 - Bounty Law ft Del The Funky Homosapien (DatPiff Exclusive).mp3
 /home/keb/Music/Doc D - Planetory Destruction (DatPiff.com)/Doc D - Planetory Destruction (DatPiff.com)/16 - Cosmos (Skit 4) (DatPiff Exclusive).mp3
 /home/keb/Music/Doc D - Planetory Destruction (DatPiff.com)/Doc D - Planetory Destruction (DatPiff.com)/17 - Death of Destruction (DatPiff Exclusive).mp3
+/home/keb/Music/J Cole - The Off Season/J. Cole - 1 0 0 . m i l ‘ (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - 9 5 . s o u t h (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - a m a r i (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - a p p l y i n g . p r e s s u r e (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - c l o s e (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - h u n g e r . o n . h i l l s i d e (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - i n t e r l u d e (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - l e t . g o . m y . h a n d (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - m y . l i f e (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - p r i d e . i s . t h e . d e v I l (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - p u n c h i n ‘ . t h e . c l o c k (Official Audio).flac
+/home/keb/Music/J Cole - The Off Season/J. Cole - The Climb Back (Official Audio).flac
 /home/keb/Music/Tidal-HiFi/Album/J. Cole/[E]  4 Your Eyez Only [68005596] [2016]/01 - J. Cole - For Whom The Bell Tolls(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/J. Cole/[E]  4 Your Eyez Only [68005596] [2016]/02 - J. Cole - Immortal(Explicit).flac
 /home/keb/Music/Tidal-HiFi/Album/J. Cole/[E]  4 Your Eyez Only [68005596] [2016]/03 - J. Cole - Deja Vu(Explicit).flac

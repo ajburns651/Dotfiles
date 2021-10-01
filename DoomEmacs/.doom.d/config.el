@@ -127,7 +127,7 @@
     (setq org-agenda-start-day nil))  ; today
 
 (setq org-agenda-files (directory-files-recursively "~/Dropbox/Org/" "\\.org$")) ; Adds All org files from Dropbox to Agenda
-(setq org-agenda-files (remove "~/Dropbox/Org/WorkHours.org" org-agenda-files))  ; Removes WorkHours from Agenda View
+(setq org-agenda-files (remove "~/Dropbox/Org/Projects/Work/Hours.org" org-agenda-files))  ; Removes WorkHours from Agenda View
 
 (defun org-agenda-auto-refresh-agenda-buffer () ; Auto updates Agenda Buffer if a new file is synced from phone
   (when (org-agenda-file-p)
@@ -154,6 +154,20 @@
                   ("DONE" . "green")
                   ("BLOCKED" .  "lightblue")))
         (setq org-log-done 'time))     ; Adds a closed timestamp when marking tasks as done
+
+(use-package org-roam
+      :ensure t
+      :hook
+      (after-init . org-roam-mode)
+      :custom
+      (org-roam-directory (file-truename "~/Dropbox/Org"))
+      :bind (:map org-roam-mode-map
+              (("C-c n l" . org-roam)
+               ("C-c n f" . org-roam-find-file)
+               ("C-c n g" . org-roam-graph))
+              :map org-mode-map
+              (("C-c n i" . org-roam-insert))
+              (("C-c n I" . org-roam-insert-immediate))))
 
 (setq treemacs-persist-file "~/.doom.d/treemacs-persist")
 (use-package treemacs
@@ -204,5 +218,5 @@
        (find-file file-path)
        (current-buffer))))))
 
-(add-hook 'emacs-startup-hook 'treemacs)                     ; Auto open treemacs on launch
+;(add-hook 'emacs-startup-hook 'treemacs)                     ; Auto open treemacs on launch
 (add-hook 'after-init-hook (lambda () (org-agenda nil "w"))) ; Auto open agenda to weekly view

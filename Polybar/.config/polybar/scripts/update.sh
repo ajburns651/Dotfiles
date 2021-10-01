@@ -1,2 +1,1 @@
-sudo pacman -Syyuu
-yay -Syu
+yay -Syyuu
