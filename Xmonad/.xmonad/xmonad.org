@@ -119,7 +119,7 @@ myStartupHook = do
           spawnOnce "rm -rf ~/.bash_logout"
           spawnOnce "rm -rf ~/.cache"
           spawnOnce "/home/keb/Dotfiles/Scripts/watch-School-Org-Notes.sh"
-          spawnOnce "dropbox start"
+          -- spawnOnce "dropbox start"
 #+end_src
 
 ** Spacing Settings

@@ -99,7 +99,7 @@ myStartupHook = do
           spawnOnce "rm -rf ~/.bash_logout"
           spawnOnce "rm -rf ~/.cache"
           spawnOnce "/home/keb/Dotfiles/Scripts/watch-School-Org-Notes.sh"
-          spawnOnce "dropbox start"
+          -- spawnOnce "dropbox start"
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
 mySpacing :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
