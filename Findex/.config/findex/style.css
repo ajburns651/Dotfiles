@@ -1,0 +1,15 @@
+.findex-query {
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+}
+
+.findex-result-icon {
+    margin: 10px;
+}
+
+.findex-result-app-name {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
