@@ -1,60 +1,66 @@
-android-file-transfer 4.2-1
-atool 0.39.0-7
-base 2-2
-brave-bin 1:1.22.71-1
-ca-certificates 20181109-4
-cmus 2.9.1-1
-dnsmasq 2.85-1
-ebtables 2.0.10_4-8
-efibootmgr 17-2
-emacs 27.2-1
-exa 0.10.0-2
-fakeroot 1.25.3-2
-fish 3.2.1-1
-flameshot 0.9.0-1
-git 2.31.1-1
-isync 1.4.1-1
-libmad 0.15.1b-9
-libreoffice-fresh 7.1.2-2
-linux 5.11.13.arch2-1
-linux-firmware 20210315.3568f96-1
-linux-headers 5.11.13.arch2-1
-linux511-tkg-upds 5.11.12-145
-linux511-tkg-upds-headers 5.11.12-145
-lvm2 2.03.11-5
-lxsession 1:0.5.5-1
-mu 1.4.15-1
-nano 5.6.1-1
-nerd-fonts-ubuntu-mono 2.1.0-2
-nitrogen 1.6.1-3
-ntfs-3g 2017.3.23-5
-ntp 4.2.8.p15-1
-nvidia-dkms 460.67-1
-nvidia-utils 460.67-1
-optimus-manager 1.4-2
-p7zip 1:17.04-1
-polybar 3.5.5-1
-poppler-data 0.4.10-1
-pulseaudio 14.2-3
-pulseaudio-alsa 1:1.2.2-2
-qemu 5.2.0-4
-rofi 1.6.1-1
-rxvt-unicode-pixbuf-patched 9.22-0
-sddm 0.19.0-4
-stow 2.3.1-3
-sudo 1.9.6.p1-1
-timeshift-bin 20.11.1-1
-ttf-font-awesome-4 4.7.0-5
-unzip 6.0-14
-virt-manager 3.2.0-1
-which 2.21-5
-x11vnc 1:0.9.16-4
-xf86-video-intel 1:2.99.917+916+g31486f40-1
-xmonad 0.15-123
-xmonad-contrib 0.16-103
-xorg-server 1.20.11-1
-xorg-xrdb 1.2.0-2
-xorg-xsetroot 1.1.2-2
-xorg-xwininfo 1.1.5-2
-yay 10.2.1-1
-zip 3.0-9
+alacritty
+base
+blueman
+bluez-utils
+brave-bin
+ca-certificates
+cmake
+dnsmasq
+ebtables
+emacs
+exa
+fakeroot
+fd
+findex-bin
+fish
+flameshot
+git
+libmad
+linux
+linux-firmware
+linux-headers
+lxappearance-gtk3
+lxsession
+nano
+neofetch
+nerd-fonts-ubuntu-mono
+networkmanager
+nitrogen
+nm-connection-editor
+npm
+ntfs-3g
+ntp
+nvidia-dkms
+nvidia-utils
+optimus-manager
+p7zip
+pcmanfm
+playerctl
+polybar
+poppler-data
+pulseaudio
+pulseaudio-alsa
+pulseaudio-bluetooth
+reflector
+ripgrep
+rofi
+rsync
+sddm
+spotify
+stow
+sudo
+texlive-core
+texlive-latexextra
+ttf-font-awesome-4
+unzip
+which
+xf86-video-intel
+xmonad
+xmonad-contrib
+xorg-server
+xorg-xrdb
+xorg-xsetroot
+xorg-xwininfo
+yay
+zip
+zscroll-git

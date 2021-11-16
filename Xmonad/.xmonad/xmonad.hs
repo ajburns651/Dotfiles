@@ -62,7 +62,7 @@ myModMask :: KeyMask
 myModMask = mod4Mask           -- Sets modkey to super/windows key
 
 myTerminal :: String
-myTerminal = "urxvt"           -- Sets default terminal
+myTerminal = "alacritty"           -- Sets default terminal
 
 myBrowser :: String
 myBrowser = "brave"            -- Sets brave as browser for tree select
@@ -74,7 +74,7 @@ myNormColor :: String
 myNormColor   = "#282c34"      -- Border color of normal windows
 
 myFocusColor :: String
-myFocusColor  = "#46d9ff"      -- Border color of focused windows
+myFocusColor  = "lightblue"      -- Border color of focused windows
 
 altMask :: KeyMask
 altMask = mod1Mask             -- Setting this for use in xprompts
@@ -99,7 +99,7 @@ myStartupHook = do
           spawnOnce "rm -rf ~/.bash_logout"
           spawnOnce "rm -rf ~/.cache"
           spawnOnce "/home/keb/Dotfiles/Scripts/watch-School-Org-Notes.sh"
-          spawnOnce "dropbox start"
+          -- spawnOnce "dropbox start"
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
 mySpacing :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
@@ -212,7 +212,7 @@ xmobarEscape = concatMap doubleLts
 
 myClickableWorkspaces :: [String]
 myClickableWorkspaces = clickable . (map xmobarEscape)
-              $ [" Main ", " Lap ", " Dev ", " VM1 ", " VM2 ", " Mus ", " Disc ", " Game ", " OTR "]
+              $ [" Main ", " Lap ", " School ", " Dev ", " Dev2 ", " Mus ", " Disc ", " Game ", " OTR "]
   where
         clickable l = [ ws |
                       (i,ws) <- zip [1..9] l,
@@ -238,18 +238,17 @@ myKeys home =
         , ("M-S-h", popOldestHiddenWindow)
 
     -- Run Prompt
-        , ("M-<Return>", spawn "~/.config/rofi/launchers/text/launcher.sh") -- rofi
+        , ("M-<Return>", spawn "findex") -- findex
 
     -- Useful programs to have a keybinding for launch
         , ("M-S-<Return>", spawn (myTerminal ++ " -e fish"))
         , ("M-b", spawn (myBrowser))
         , ("M-M1-s",spawn ("flameshot screen -n 0 -p ~/Pictures/Screenshots/"))
         , ("M-M1-f", spawn "emacs .")
+        , ("M-S-f", spawn "pcmanfm")
         , ("M-M1-p", spawn ("picom --experimental-backend; killall picom"))
-        , ("M-M1-m", spawn (myTerminal ++ " -e cmus"))
+        , ("M-M1-m", spawn "spotify")
         , ("M-M1-S-s", spawn ("sudo systemctl suspend"))
-        , ("M-M1-S-v", spawn "VirtualBox")
-        , ("M-M1-t", spawn ("emacs ~/.doom.d/org/general.org"))
 
    -- Emacs (Mod-e followed by a key)
         , ("M-e e", spawn "emacsclient -c -a 'emacs'")                            -- start emacs
@@ -258,6 +257,7 @@ myKeys home =
         , ("M-e m", spawn "emacsclient -c -a 'emacs' --eval '(mu4e)'")            -- mu4e emacs email client
         , ("M-e s", spawn "emacsclient -c -a 'emacs' --eval '(eshell)'")          -- eshell within emacs
         , ("M-e t", spawn "emacsclient -c -a 'emacs' --eval '(org-agenda)'")      -- Open Org agenda
+
     -- Kill windows
         , ("M-S-c", kill1)     -- Kill the currently focused client
         , ("M-S-a", killAll)   -- Kill all windows on current workspace
@@ -305,7 +305,7 @@ myKeys home =
         , ("M-h", sendMessage Shrink)                   -- Shrink horiz window width
         , ("M-l", sendMessage Expand)                   -- Expand horiz window width
         , ("M-M1-j", sendMessage MirrorShrink)          -- Shrink vert window width
-        , ("M-M1-k", sendMessage MirrorExpand)          -- Exoand vert window width
+        , ("M-M1-k", sendMessage MirrorExpand)          -- Expand vert window width
 
     -- Sublayouts
     -- This is used to push windows to tabbed sublayouts, or pull them out of it.

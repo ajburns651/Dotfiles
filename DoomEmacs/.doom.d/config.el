@@ -219,4 +219,4 @@
        (current-buffer))))))
 
 ;(add-hook 'emacs-startup-hook 'treemacs)                     ; Auto open treemacs on launch
-(add-hook 'after-init-hook (lambda () (org-agenda nil "w"))) ; Auto open agenda to weekly view
+;(add-hook 'after-init-hook (lambda () (org-agenda nil "w"))) ; Auto open agenda to weekly view

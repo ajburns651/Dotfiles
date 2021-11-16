@@ -89,7 +89,7 @@ alias rm='rm -i'
 alias yeet='rm -i'
 alias mocp='mocp -M /home/keb/SYSTEM/.config/moc'
 alias nvidia-settings='nvidia-settings --config="$XDG_CONFIG_HOME"/nvidia/settings'
-alias ranger="/path/to/bin/ranger ; rm -rf ~/.cache"
+#alias ranger="/path/to/bin/ranger ; rm -rf ~/.cache"
 ## BINDINGS ###
 bind -k btab accept-autosuggestion execute
 bind \t complete
