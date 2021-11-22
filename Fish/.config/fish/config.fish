@@ -20,6 +20,10 @@ set fish_color_param brcyan
 
 ### FUNCTIONS ###
 
+function edit --argument filename
+         emacs $filename &
+end
+
 # Run last command as root
 function please
         eval command sudo $history[1]

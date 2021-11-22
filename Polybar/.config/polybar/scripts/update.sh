@@ -1,1 +1,1 @@
-yay -Syyuu
+alacritty -e yay -Syyuu
