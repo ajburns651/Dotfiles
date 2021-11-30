@@ -98,7 +98,8 @@ myStartupHook = do
           spawnOnce "rm -rf ~/.bash_profile &"
           spawnOnce "rm -rf ~/.bash_logout"
           spawnOnce "rm -rf ~/.cache"
-          spawnOnce "/home/keb/Dotfiles/Scripts/watch-School-Org-Notes.sh"
+          spawnOnce "~/Dotfiles/Scripts/watch-School-Org-Notes.sh"
+          spawnOnce "~/.config/dunst/load.sh"
           -- spawnOnce "dropbox start"
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
