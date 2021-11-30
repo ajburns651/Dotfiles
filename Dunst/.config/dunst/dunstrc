@@ -6,7 +6,7 @@
     width = 300
     height = 600
     origin = top-right
-    offset = 6x40
+    offset = 6x45
     scale = 1
     indicate_hidden = yes
 	shrink = yes
