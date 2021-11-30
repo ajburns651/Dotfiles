@@ -20,10 +20,6 @@ set fish_color_param brcyan
 
 ### FUNCTIONS ###
 
-function edit --argument filename
-         emacs $filename &
-end
-
 # Run last command as root
 function please
         eval command sudo $history[1]
@@ -62,7 +58,7 @@ function file-exists --argument file
 end
 
 ### ALIASES ###
-alias nvim='sudoedit'
+#alias nvim='sudoedit'
 alias semacs='sudoedit'
 alias doom='~/.emacs.d/bin/doom'
 alias todo='~/Dotfiles/Scripts/todo.sh'
