@@ -58,6 +58,7 @@ function file-exists --argument file
 end
 
 ### ALIASES ###
+alias updatemirrors='sudo reflector --verbose -l 200 -n 20 -p http --sort rate --save /etc/pacman.d/mirrorlist'
 #alias nvim='sudoedit'
 alias semacs='sudoedit'
 alias doom='~/.emacs.d/bin/doom'
